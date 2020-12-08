@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 508 508" style="enable-background:new 0 0 508 508;" xml:space="preserve">
+<g fill="blue">
 <g>
 	<g>
 		<path d="M393.4,73.7H336c0-22.6-18.4-41-41-41h-0.8C290.3,14.1,273.8,0,254,0s-36.3,14.1-40.1,32.8H213c-22.6,0-41,18.4-41,41
@@ -45,5 +46,6 @@
 			 M327.7,409.7c-13.6,0-24.6-11-24.6-24.6c0-13.6,11-24.6,24.6-24.6c13.6,0,24.6,11,24.6,24.6C352.3,398.7,341.3,409.7,327.7,409.7
 			z"/>
 	</g>
+</g>
 </g>
 </svg>
