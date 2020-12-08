@@ -7239,9 +7239,6 @@ p a, .border-link {
 .card-services .card {
   background-color: inherit;
   transition: all .25s ease-out; }
-  .card-services .card:hover {
-    background-color: rgba(0, 0, 255, 0.1);
-    transition: all .25s ease-out; }
 
 /*reviews*/
 .review .quote {
