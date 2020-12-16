@@ -19,7 +19,6 @@ body {
     color: #333;
     line-height: 1.6;
     font-family: 'Open sans', sans-serif;
-
 }
 
 .body__container{
@@ -57,7 +56,6 @@ nav {
 	left: 0;
 	right: 0;
 	top: 0;
-	font-family: 'Open sans', sans-serif;
 	padding: 0 5%;
 	height: 100px;
     overflow: auto;
@@ -139,9 +137,7 @@ nav .icon-burger .line {
     text-align: left;
     transform: translate(5%, 0%);
     font-size: 28px;
-    font-family: 'Open sans', sans-serif;
     color: #ffffff;
-    font-weight: 300;
 }
 
 
