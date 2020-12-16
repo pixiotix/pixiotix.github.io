@@ -20,8 +20,9 @@ body {
     line-height: 1.6;
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
-    
-    max-width: 1800px;
+
+    margin: auto;
+    max-width: 1500px;
     min-width: 240px;
 }
 
@@ -65,7 +66,9 @@ nav {
     overflow: auto;
 	background-color: #fff;
     
-    max-width: 1800px;
+
+    margin: auto;
+    max-width: 1500px;
     min-width: 240px;
 
     box-shadow: 0 2px 2px -2px rgba(0,0,0,.5);
