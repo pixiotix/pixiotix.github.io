@@ -562,14 +562,6 @@ nav .icon-burger .line {
     clear: both;
 }
 
-#image {
-    width: 12em;
-    height: 12em;
-    text-align: center;
-    margin-left: 3em;
-
-}
-
 @media(max-width:880px) {
     .data h1 {
         font-size: 24px;
@@ -582,12 +574,6 @@ nav .icon-burger .line {
     .columnn h4 {
         font-size: 18px;
     }
-
-    #image {
-        width: 10em;
-        height: 10em;
-    }
-
 
 }
 
@@ -604,12 +590,6 @@ nav .icon-burger .line {
         font-size: 16px;
     }
 
-    #image {
-        width: 8em;
-        height: 8em;
-    }
-
-
 }
 
 @media (max-width: 800px) {
@@ -623,13 +603,6 @@ nav .icon-burger .line {
   .columnn h4 {
         font-size: 14px;
     }
-
-    #image {
-        width: 7em;
-        height: 7em;
-        margin: 0;
-    }
-
 
 }
 
