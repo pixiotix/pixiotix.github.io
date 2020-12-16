@@ -389,11 +389,8 @@ nav .icon-burger .line {
     }
 
     .imgg {
-        width: 2rem;
         height: 2rem;
     }
-
-
 }
 
 @media(max-width:720px) {
@@ -411,11 +408,8 @@ nav .icon-burger .line {
 
     .imgg {
         padding-top: 5px;
-        width: 1rem;
         height: 1rem;
     }
-
-
 }
 
 @media (max-width: 800px) {
@@ -448,7 +442,6 @@ nav .icon-burger .line {
 
     .imgg {
         padding-top: 5px;
-        width: 1.5rem;
         height: 1.7rem;
     }
 
@@ -483,10 +476,8 @@ nav .icon-burger .line {
 
     .row{
         display: flex;
-        flex-direction: column;
-      
+        flex-direction: column; 
     }
-
 }
 
 
