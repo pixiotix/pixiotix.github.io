@@ -122,11 +122,10 @@ nav .icon-burger .line {
     background-size: contain;
     position: relative;
     margin-top: 8vw;
-
 }
 
 #main_sec {
-
+    text-align: left;
     position: absolute;
     top: 50%;
     width: 100%;
@@ -373,7 +372,7 @@ nav .icon-burger .line {
 }
 
 .imgg {
-    width: 2em;
+    
     height: 2em;
 }
 
