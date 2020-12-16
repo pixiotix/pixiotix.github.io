@@ -1,378 +1,227 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-804VV0R8WT"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-804VV0R8WT');
-        </script>
 
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Pixiotix Consulting</title>
+<head>
+    <meta charset="utf-8">
 
-        <link rel="canonical" href="https://pixiotix.com/" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-804VV0R8WT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-804VV0R8WT');
+    </script>
 
-        <meta name="description" content="Pixiotix Consulting - helping deep-tech businesses start, innovate, deliver and grow." /> 
+    <!-- Required meta tags -->
+    <title>Pixiotix Consulting</title>
+    <link rel="canonical" href="https://pixiotix.com/" />
 
-        <meta property="og:description" content="Pixiotix Consulting - helping deep-tech businesses start, innovate, deliver and grow.">
-        <meta property="og:title" content="Pixiotix Consulting">
-        <meta property="og:image" content="http://pixiotix.com/img/logo.jpg">
-        <meta property="og:url" content="http://pixiotix.com">
-        <meta property="og:site_name" content="Pixiotix Consulting">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image:alt" content="Pixiotix Logo">
+    <meta name="description" content="Pixiotix Consulting - helping deep-tech businesses start, innovate, deliver and grow." /> 
+    <meta property="og:description" content="Pixiotix Consulting - helping deep-tech businesses start, innovate, deliver and grow.">
+    <meta property="og:title" content="Pixiotix Consulting">
+    <meta property="og:image" content="http://pixiotix.com/img/logo.jpg">
+    <meta property="og:url" content="http://pixiotix.com">
+    <meta property="og:site_name" content="Pixiotix Consulting">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content="Pixiotix Logo">
 
-        <!--Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-        <!--vendors styles-->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Pixiotix Consulting</title>
+</head>
 
-        <!-- Bootstrap CSS / Color Scheme -->
-        <link rel="stylesheet" href="css/main.css" id="theme-color">
+<body>
 
-    </head>
-    <body>
+    <!----------- Navbar ------------->
 
-<!------------------------------------------------------------------------------------------------
--- header
--------------------------------------------------------------------------------------------------->
+    <nav>
+        <input id="nav-toggle" type="checkbox">
+        <div class="logo">
+            <img src="img/logo.png" alt="logo">
+        </div>
+        <ul class="links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#people">People</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <label for="nav-toggle" class="icon-burger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </label>
+    </nav>
 
-        <nav class="navbar navbar-expand-md navbar-light fixed-top sticky-navigation" style="background-color: #e8efff;">
-            <a class="navbar-brand mx-auto" href="index.html">
-                <img src="svg/logo.svg" height=50>
-            </a>
-            <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse" 
-                    data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                <span data-feather="grid"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#services">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#people">People</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
+    <!-- Header -->
+
+    <section class="main">
+        <div id="main_sec">
+            <h2>Pixiotix helps deep-tech businesses <br>start, innovate, deliver and grow.</h2>
+        </div>
+    </section>
+
+    <!----------- About ------------->
+
+    <section class="gallery" id="about">
+        <div class="wrapper">
+            <div class="item">
+                <img id="img" src="img/deep%20research.png">
+                <br>
+                <h4>Deep technology experience</h4>
+                <p>There’s a lot more to software development than typical “full stack” development. Pixiotix has experience across a broad gamut of software development, from working with custom hardware, to embedded systems, operating systems, application software, cloud architecture and of course backend and frontend web development.</p>
             </div>
-        </nav>
-
-        <section class="pt-7 pt-md-8" id="about">
-        </section>
-        
-<!------------------------------------------------------------------------------------------------
--- about
--------------------------------------------------------------------------------------------------->
-
-        <section class="pb-7" id="">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <h2><img src="svg/device.svg" width=10%>About Pixiotix</h2>
-                        <p class="text-muted lead">Pixiotix helps deep-tech businesses start, innovate, deliver and grow.
-                        </p>
-                    </div>
-                </div>
-
-                <br>                
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="svg/brain4.svg" class="img-fluid d-block mx-auto" width=40%/>
-                    </div>
-                    <div class="col-md-6 my-md-auto">
-                        <h3>Deep technology experience</h3>
-                        <p class="text-muted lead">
-                        There’s a lot more to software development than typical “full stack” development. Pixiotix has experience across a broad gamut of software development, from working with custom hardware, to embedded systems, operating systems, application software, cloud architecture and of course backend and frontend web development.                            
-                        </p>
-                    </div>
-                </div>
-
-                <br>                
-
-                <div class="row mt-5">
-                    <div class="col-md-6 order-1 order-md-2">
-                        <img src="svg/brain1.svg" class="img-fluid d-block mx-auto" width=40%/>
-                    </div>
-                    <div class="col-md-6 order-2 order-md-1 my-md-auto">
-                        <h3>Product development</h3>
-                        <p class="text-muted lead">
-                            Turning amazing ideas into amazing products takes time, expertise and care. Designing a system that your users will love, that’s fast, reliable, secure and scalable is a massive undertaking and it’s worth planning for up front. Talk to Pixiotix to see how we can help you get prepared for success.
-                        </p>
-                    </div>
-                </div>
-
-                <br>                
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="svg/brain2.svg" class="img-fluid d-block mx-auto" width=40%/>
-                    </div>
-                    <div class="col-md-6 my-md-auto">
-                        <h3>Research and Development, Innovation</h3>
-                        <p class="text-muted lead">
-                            Trying to do something that hasn’t been done before? Not sure if it is even possible? Great - Pixiotix is all about innovation! We can help with research, ideation, technical proposals, proof-of-concept through to implementation.
-                        </p>
-                    </div>
-                </div>
-
-                <br>                
-
-                <div class="row">
-                    <div class="col-md-6 order-1 order-md-2">
-                        <img src="svg/brain3.svg" class="img-fluid d-block mx-auto" width=40%/>
-                    </div>
-                    <div class="col-md-6 order-2 order-md-1 my-md-auto">
-                        <h3>Startups and Scaleups</h3>
-                        <p class="text-muted lead">
-                            Building and scaling a startup business is hard & your technology team is key to delivering a great product. Pixiotix helps startups identify people and organisations with the right skills, experience and potential to help you succeed.
-                        </p>
-                    </div>
-                </div>
-
-                <br>                
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="svg/brain5.svg" class="img-fluid d-block mx-auto" width=40%/>
-                    </div>
-                    <div class="col-md-6 my-md-auto">
-                        <h3>Software Engineering</h3>
-                        <p class="text-muted lead">
-                            Pixiotix brings a wealth of experience in Software Engineering in real product development environments. We know how to get engineering teams started from scratch, instil good practice and culture, and implement systems and practices that suit your business. Pragmatic application of Software Engineering allows you to both “get stuff done” and “build great stuff” with a minimum of overhead.
-                        </p>
-                    </div>
-                </div>
-        </section>
-
-<!------------------------------------------------------------------------------------------------
--- services
--------------------------------------------------------------------------------------------------->
-
-        <section class="bg-light py-7" id="services">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <h2><img src="svg/device.svg" width=10%>Pixiotix Services</h2>
-                        <p class="text-muted lead">Whatever challenge your high tech startup faces, Pixiotix can help
-                        </p>
-                    </div>
-                </div>
-                <div class="row mt-5">
-                    <div class="col-md-10 mx-auto">
-                        <div class="row card-services">
-                            <div class="col-md-6 mb-3">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <div class="icon-box border-box">
-                                            <div class="icon-box-inner small-xs text-primary">
-                                                <img src="svg/chart.svg" width="50" height="50"></span>
-                                            </div>
-                                        </div>
-                                        <h5 class="mt-0 mb-3">Getting Started</h5>
-                                        <div style="display: inline-block; text-align: left;">
-                                            <li>Technical validation of ideas
-                                            <li>Product design
-                                            <li>System architecture
-                                            <li>Technical team building
-                                            <li>Mentoring, supervision
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 mb-3">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <div class="icon-box border-box">
-                                            <div class="icon-box-inner small-xs text-primary">
-                                                <img src="svg/beaker.svg" width="50" height="50"></span>
-                                            </div>
-                                        </div>
-                                        <h5 class="mt-0 mb-3">Innovation</h5>
-                                        <div style="display: inline-block; text-align: left;">
-                                            <li>Research
-                                            <li>Expertise
-                                            <li>Technical proof of concept work
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 mb-3">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <div class="icon-box border-box">
-                                            <div class="icon-box-inner small-xs text-primary">
-                                                <img src="svg/target.svg" width="50" height="50"></span>
-                                            </div>
-                                        </div>
-                                        <h5 class="mt-0 mb-3">Delivery</h5>
-                                        <div style="display: inline-block; text-align: left;">
-                                            <li>Pragmatic Software Engineering process
-                                            <li>Streamline operations
-                                            <li>Engineering systems
-                                            <li>Devops
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 mb-3">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <div class="icon-box border-box">
-                                            <div class="icon-box-inner small-xs text-primary">
-                                                <img src="svg/rocket.svg" width="50" height="50"></span>
-                                            </div>
-                                        </div>
-                                        <h5 class="mt-0 mb-3">Grow</h5>
-                                        <div style="display: inline-block; text-align: left;">
-                                            <li>Identify key technical talent
-                                            <li>Technical Due Diligence
-                                            <li>Design for scale, availability, security, performance
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="item">
+                <img id="img" src="img/product%20develp.png">
+                <br>
+                <h4>Product development</h4>
+                <p>Turning amazing ideas into amazing products takes time, expertise and care. Designing a system that your users will love, that’s fast, reliable, secure and scalable is a massive undertaking and it’s worth planning for up front. Talk to Pixiotix to see how we can help you get prepared for success.</p>
             </div>
-        </section>
-
-<!------------------------------------------------------------------------------------------------
--- people
--------------------------------------------------------------------------------------------------->
-
-        <section class="pt-7 pt-md-8" id="people">
-        </section>
-        
-        <section class="pb-7" id="">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <h2><img src="svg/device.svg" width=10%>Pixiotix people</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="img/dxm.jpg" class="img-fluid d-block mx-auto" width=60%/>
-                    </div>
-                    <div class="col-md-6 my-md-auto">
-                        <div class="social social-dark social-sm">
-                            <h3>
-                                Daniel Moore - Director
-                                <a href="https://www.linkedin.com/in/danielxmoore/">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                            </h3>
-                        </div>
-
-                        <p class="text-muted lead">
-                            Daniel has over 20 years experience in Software Engineering with the last 10 years in Senior Engineering Leadership roles, working with founders and CEOs to drive technology and engineering.
-                        </p>
-                        <p class="text-muted">
-                            Working in innovative, Research & Development focussed organisations including <a href="https://csiro.au" target="_blank">CSIRO</a>, <a href="https://www.linkedin.com/company/sgi/" target="_blank">Silicon Graphics</a> and <a href="https://blackmagicdesign.com" target="_blank">Blackmagic Design</a>, Daniel has worked with, learned from, and hired, the best.
-                        </p>
-                        <p class="text-muted">
-                            Daniel brings a pragmatic attitude and quality focus to engineering and combines it with strong communications and a willingness to get involved in whatever aspect of a business needs attention.
-                        </p>
-                    </div>
-                </div>
+            <div class="item">
+                <img id="img" src="img/research.png">
+                <br>
+                <h4>Research and Development, Innovation</h4>
+                <p>Trying to do something that hasn’t been done before? Not sure if it is even possible? Great - Pixiotix is all about innovation! We can help with research, ideation, technical proposals, proof-of-concept through to implementation.</p>
             </div>
-        </section>
-
-<!------------------------------------------------------------------------------------------------
--- contact
--------------------------------------------------------------------------------------------------->
-
-        <section class="bg-light py-8" id="contact" style="background-image: url(img/lorenzo-moschi-MNSf5U1gkUc-unsplash.jpg)">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <h2><img src="svg/device.svg" width=10%>Contact Pixiotix</h2>
-                        <p class="text-muted lead">Are you working on something great? Pixiotix can help.
-                        </p>
-                    </div>
-                </div>
+            <div class="item ">
+                <img id="img" src="img/startups.png">
+                <br>
+                <h4>Startups and Scaleups</h4>
+                <p>Building and scaling a startup business is hard & your technology team is key to delivering a great product. Pixiotix helps startups identify people and organisations with the right skills, experience and potential to help you succeed.</p> 
             </div>
-            <div class="container">
-                <div class="row mt-5">
-                    <div class="col-md-8 mx-auto">
-                        <form target="_blank" action="https://formsubmit.co/c67e8002bb31ad1c3ebd00d0f5fce9a1" method="POST">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <input name="name" type="text" class="form-control" placeholder="Name">
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <input name="email" type="email" class="form-control" placeholder="Email">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea name="message" rows="5" class="form-control" placeholder="How can we help you?"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="text-center mt-3">
-                                <button class="btn btn-primary">Get in touch</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+            <div class="item item1">
+                <img id="img" src="img/software%20engineeri%20ng.png">
+                <br>
+                <h4>Software Engineering</h4>
+                <p>Pixiotix brings a wealth of experience in Software Engineering in real product development environments. We know how to get engineering teams started from scratch, instill good practice and culture, and implement systems and practices that suit your business. Pragmatic Software Engineering allows you to both “get stuff done” and “build great stuff” with a minimum of overhead.</p>
             </div>
-        </section>
 
-<!------------------------------------------------------------------------------------------------
--- footer
--------------------------------------------------------------------------------------------------->
+        </div>
+    </section>
 
-        <footer class="py-6 bg-light">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 mx-auto text-center">
-                        <p class="text-muted small text-uppercase mt-4">
-                            Follow Pixiotix on social media
-                        </p>
-                        <ul class="list-inline social social-dark social-sm">
-                            <li class="list-inline-item">
-                                <a href="https://www.linkedin.com/company/pixiotix/"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row mt-5">
-                    <div class="col-12 text-muted text-center small-xl">
-                        &copy; 2020 Pixiotix - All Rights Reserved
-                        <div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/prosymbols" title="Prosymbols">Prosymbols</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+    <!----------- Services ------------->
 
-        <!--scroll to top-->
-        <div class="scroll-top">
-            <i class="fa fa-angle-up" aria-hidden="true"></i>
+    <section class="services" id="services">
+        <div class="data">
+            <h1>Our Services</h1>
         </div>
 
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.5.0/feather.min.js"></script>
-        <script src="js/scripts.js"></script>
-    </body>
+        <div class="row">
+            <div class="column">
+                <img class="imgg" src="img/arrow.png">
+
+                <h4>Inception</h4>
+
+                <ul>
+                    <li>Technical validation of ideas</li>
+                    <li>Product design</li>
+                    <li>System architecture</li>
+                    <li>Technical team building</li>
+                    <li>Mentoring, supervision</li>
+                </ul>
+            </div>
+
+            <div class="column">
+                <img class="imgg" src="img/arrow2.png">
+
+                <h4>Innovation</h4>
+
+                <ul>
+                    <li>Research</li>
+                    <li>Expertise</li>
+                    <li>Technical proof of concepts</li>
+                </ul>
+            </div>
+
+            <div class="column">
+                <img class="imgg" src="img/arrow3.png">
+
+                <h4>Delivery</h4>
+
+                <ul>
+                    <li>Pragmatic Software</li>
+                    <li>Engineering process</li>
+                    <li>Streamline operations</li>
+                    <li>Engineering systems</li>
+                    <li>Devops</li>
+                </ul>
+            </div>
+            <div class="column">
+                <img class="imgg" src="img/arrow4.png">
+
+                <h4>Growth</h4>
+
+                <ul>
+                    <li>Identify key technical talent</li>
+                    <li> Technical Due Diligence</li>
+                    <li>Design for scale, availability</li>
+                    <li>security, performance</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+    <!----------- People ------------->
+
+    <section class="People" id="people">
+        <div class="data">
+            <h1>Our People</h1>
+        </div>
+
+        <div class="row">
+            <div class="columnn center">
+                <img id="image" src="img/dxm.jpg">
+            </div>
+            <div class="columnn center">
+                <h4>Daniel Moore, Director</h4>
+                <a href="https://www.linkedin.com/in/danielxmoore"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                <br>
+                <p class="left-align">Daniel has over 20 years experience in Software Engineering with the last 10 years in Senior Engineering Leadership roles, working with founders and CEOs to drive technology and engineering.</p>
+
+                <p>Working in innovative, Research & Development focussed organisations including CSIRO, Silicon Graphics and Blackmagic Design, Daniel has worked with, learned from, and hired, the best.</p>
+
+                <p>Daniel brings a pragmatic attitude and quality focus to engineering and combines it with strong communications and a willingness to get involved in whatever aspect of a business needs attention.</p>
+            </div>
+        </div>
+    </section>
+
+    <!----------- Contact Us ------------->
+
+    <section class="contact" id="contact">
+        <div style="text-align:center">
+            <h2>Contact us</h2>
+            <p>Are you working on something great? Pixiotix can help.</p>
+        </div>
+        <div class="row">
+            <div class="col">
+                <form target="_blank" action="https://formsubmit.co/c67e8002bb31ad1c3ebd00d0f5fce9a1" method="POST">
+                    <input type="text" id="Name" name="name" placeholder="Name">
+                    <input type="text" id="email" name="email" placeholder="Email">
+                    <textarea id="message" name="message" placeholder="Message" style="height:50px"></textarea>
+                    <input type="submit" value="Send">
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!----------- Footer ------------->
+
+    <section class="footer">
+
+        <p>© 2020 Pixiotix - All Rights Reserved</p>
+
+        <div class="social-footer-icons">
+            <a href="https://www.linkedin.com/company/pixiotix"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+        </div>
+
+    </section>
+
+</body>
+
 </html>
