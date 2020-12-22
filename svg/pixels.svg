@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="359.916" height="360" viewBox="0 0 359.916 360">
-  <g id="Group_5" data-name="Group 5" transform="translate(0)" opacity="0.57">
-    <rect id="Rectangle_9" data-name="Rectangle 9" width="31.228" height="21.179" transform="translate(162.94 184.407)" fill="#19468b" opacity="0.48"/>
-    <rect id="Rectangle_10" data-name="Rectangle 10" width="359.823" height="31.353" transform="translate(0.008 0.016)" fill="#19468b"/>
-    <rect id="Rectangle_11" data-name="Rectangle 11" width="31.361" height="360" transform="translate(162.872)" fill="#19468b"/>
-    <path id="Path_13" data-name="Path 13" d="M-40.541,239H-385.193V74.759h31.361V207.644H-40.541Z" transform="translate(385.193 -43.872)" fill="#19468b"/>
-    <rect id="Rectangle_12" data-name="Rectangle 12" width="31.396" height="359.817" transform="translate(328.521 0.183)" fill="#19468b"/>
-    <rect id="Rectangle_13" data-name="Rectangle 13" width="196.861" height="31.333" transform="translate(162.966 328.667)" fill="#19468b"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="359.916" height="360" viewBox="0 0 359.916 360"> <g id="Group_5" data-name="Group 5" transform="translate(0)" opacity="0.57"> <rect id="Rectangle_9" data-name="Rectangle 9" width="31.228" height="21.179" transform="translate(162.94 184.407)" fill="#19468b" opacity="0.48"/> <rect id="Rectangle_10" data-name="Rectangle 10" width="359.823" height="31.353" transform="translate(0.008 0.016)" fill="#19468b"/> <rect id="Rectangle_11" data-name="Rectangle 11" width="31.361" height="360" transform="translate(162.872)" fill="#19468b"/> <path id="Path_13" data-name="Path 13" d="M-40.541,239H-385.193V74.759h31.361V207.644H-40.541Z" transform="translate(385.193 -43.872)" fill="#19468b"/> <rect id="Rectangle_12" data-name="Rectangle 12" width="31.396" height="359.817" transform="translate(328.521 0.183)" fill="#19468b"/> <rect id="Rectangle_13" data-name="Rectangle 13" width="196.861" height="31.333" transform="translate(162.966 328.667)" fill="#19468b"/> </g> </svg>
