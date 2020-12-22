@@ -54,7 +54,6 @@ p {
 
 /*------- Navbar styling-------*/
 
-
 nav {
 	position: fixed;
 	z-index: 10;
@@ -65,7 +64,6 @@ nav {
 	height: 100px;
     overflow: auto;
 	background-color: #fff;
-    
 
     margin: auto;
     max-width: 1500px;
@@ -73,6 +71,14 @@ nav {
 
     box-shadow: 0 2px 2px -2px rgba(0,0,0,.5);
 }
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px; /* navbar height */
+    visibility: hidden;
+}
+
 nav .logo {
 	float: left;
 	width: 30%;
