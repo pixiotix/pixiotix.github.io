@@ -496,18 +496,18 @@ nav .icon-burger .line {
     color: #19468B;
 }
 
-.columnn p {
+.column p {
     color: #707070;
     font-size: 14px;
 }
 
-.columnn h4 {
+.column h4 {
     color: #19468B;
     font-size: 18px;
 }
 
 
-.columnn {
+.column {
 
     margin-top: 3em;
     float: left;
@@ -519,12 +519,12 @@ nav .icon-burger .line {
 
 @media only screen and (max-width:800px){
     
-    .columnn{
+    .column{
         width: 100%;
         margin-top: 1em;
     }
 
-    .columnn{
+    .column{
         padding: 0rem 2rem;
     }
 
@@ -551,11 +551,11 @@ nav .icon-burger .line {
         font-size: 24px;
     }
 
-    .columnn p {
+    .column p {
         font-size: 14px;
     }
 
-    .columnn h4 {
+    .column h4 {
         font-size: 18px;
     }
 
@@ -566,11 +566,11 @@ nav .icon-burger .line {
         font-size: 30px;
     }
 
-    .columnn p{
+    .column p{
         font-size: 12px;
     }
 
-    .columnn h4{
+    .column h4{
         font-size: 16px;
     }
 
@@ -578,13 +578,13 @@ nav .icon-burger .line {
 
 @media (max-width: 800px) {
    
-    .columnn p {
+    .column p {
         font-size: 12px;
         line-height: 1.8;
         margin-bottom: 30px;
     }
 
-  .columnn h4 {
+  .column h4 {
         font-size: 14px;
     }
 
@@ -782,50 +782,6 @@ h2 {
 
 .lg {
     margin-top: 5rem;
-}
-
-
-
-/*---- Margins---*/
-.my-1 {
-    margin: 1rem 0;
-}
-
-.my-2 {
-    margin: 1.5rem 0;
-}
-
-.my-3 {
-    margin: 2rem 0;
-}
-
-.my-4 {
-    margin: 3rem 0;
-}
-
-.my-5 {
-    margin: 4rem 0;
-}
-
-/*---- paddings---*/
-.py-1 {
-    padding: 1rem 0;
-}
-
-.py-2 {
-    padding: 1.5rem 0;
-}
-
-.py-3 {
-    padding: 2rem 0;
-}
-
-.py-4 {
-    padding: 3rem 0;
-}
-
-.py-5 {
-    padding: 4rem 0;
 }
 
 
