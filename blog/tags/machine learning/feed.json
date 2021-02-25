@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixiotix • All posts by \"machine learning\" tag",
+    "description": "",
+    "home_page_url": "https://pixiotix.com",
+    "items": [
+        {
+            "id": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
+            "url": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
+            "title": "Automated asset inspection with ML",
+            "date_published": "2021-02-18T15:56:06.977Z",
+            "content_html": "<p>I tuned in for a particularly interesting presentation as part of Smart Cities Summit 2021 yesterday. Some amazing work being done by Moreton Bay Regional Council and Retina Visions on automated visual asset inspection. They are leveraging their existing garbage collection vehicles to acquire video footage of the road and roadside during their rounds, and processing that video to identify all kinds of maintenance issues.</p><p>From road defects including cracking to curbside rubbish to overhanging trees - all detected automatically and fed directly into the council asset management system and used to dispatch maintenance crews.</p><p>I also noted a great use of edge AI - to mitigate privacy issues, both faces and license plates are detected on the acquisition device and blurred as the footage is acquired. The redacted footage is then sent back to the cloud for the gruntier processing work of detecting and classifying the defect types. In this way it’s possible to leverage the huge processing power in the cloud whilst ensuring that sensitive data never leaves the truck.</p><p>It’s a really inspiring example of a council embracing new technology to reduce costs and improve services for their community.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "Machine Learning",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/",
+            "url": "https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/",
+            "title": "Why is Machine Learning such a big deal for Computer Vision?",
+            "date_published": "2021-02-14T17:43:59.464Z",
+            "content_html": "<p>Computer Vision - teaching computers to understand images - is a classically hard problem.&nbsp;</p><p>Why? Because computers don’t see images at all - just numbers where humans have had millions of years to become great at seeing.</p><p>So why are modern Machine Learning techniques such a big deal for CV? It is now clear that basic image understanding can be reduced to a fuzzy pattern matching exercise and that’s where our current ML is at. And modern ML is a massive step up from where CV was only a decade ago.</p><p>Two, the reams of video data we are producing provide both the incentive and the means to solve the problem. CV can add value to video data produced in industries such as security, manufacturing and medicine by processing it quickly and efficiently, much cheaper than people can. The same data can be used to train the ML models to process it.</p><p>The killer app for ML for CV? Edge processing of video. Managing privacy concerns inherent with video recordings, and bandwidth issues to stream video to the cloud from remote sites both mean that processing video at the edge, before sending results to the cloud is a massive win.</p><p>My prediction: it’s only going to get bigger.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Machine Learning",
+                "Computer Vision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixiotix.com</id>
+    <title>Pixiotix • Posts by &#34;pixiotix&#34; tag</title>
+    <link href="https://pixiotix.com" />
+    <updated>2021-02-21T20:43:54.973Z</updated>
+    <category term="Pixiotix" />
+    <category term="Announcements" />
+    <category term="Software Engineering" />
+    <category term="Leadership" />
+    <category term="Innovation" />
+    <category term="Machine Learning" />
+    <category term="Computer Vision" />
+    <category term="History" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/</id>
+        <title>Starting out in R&amp;D</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/"/>
+        <content type="html">&lt;p&gt;Upon leaving University, I joined &lt;a href=&#34;https://www.linkedin.com/company/csiro/&#34;&gt;CSIRO&lt;/a&gt; and was thrown straight in the deep-end as the solo developer of the system software for the RoadCrack road-survey vehicle.&lt;/p&gt;&lt;p&gt;The prototype vehicle was capable of imaging the road, processing and classifying cracks down to 1 mm resolution at 105 kmph.&lt;/p&gt;&lt;p&gt;The software interfaced with custom FPGA based image acquisition hardware, distributing the image data from industrial line-scan cameras via high speed frame grabbers and a network of 5+ Digital Alpha computers which performed the processing. Data was reported to a front-end control user interface in real-time.&lt;/p&gt;&lt;p&gt;Image processing code developed elsewhere in CSIRO extracted cracking and classified each image. Development predated contemporary machine learning algorithms and relied on classical computer vision techniques.&lt;/p&gt;&lt;p&gt;The opportunity to work on the RoadCrack project and the support of the crew at CSIRO was instrumental in kicking off my ongoing career in innovative, R&amp;amp;D driven companies.&lt;/p&gt;&lt;p&gt;More details on RoadCrack at https://csiropedia.csiro.au/roadcrack-1999/ and check out a promo video at https://csiropedia.csiro.au/automated-pavement-crack-detection-and-classification-1994/&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="History" />
+        <updated>2021-02-21T20:43:54.973Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</id>
+        <title>Automated asset inspection with ML</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/"/>
+        <content type="html">&lt;p&gt;I tuned in for a particularly interesting presentation as part of Smart Cities Summit 2021 yesterday. Some amazing work being done by Moreton Bay Regional Council and Retina Visions on automated visual asset inspection. They are leveraging their existing garbage collection vehicles to acquire video footage of the road and roadside during their rounds, and processing that video to identify all kinds of maintenance issues.&lt;/p&gt;&lt;p&gt;From road defects including cracking to curbside rubbish to overhanging trees - all detected automatically and fed directly into the council asset management system and used to dispatch maintenance crews.&lt;/p&gt;&lt;p&gt;I also noted a great use of edge AI - to mitigate privacy issues, both faces and license plates are detected on the acquisition device and blurred as the footage is acquired. The redacted footage is then sent back to the cloud for the gruntier processing work of detecting and classifying the defect types. In this way it’s possible to leverage the huge processing power in the cloud whilst ensuring that sensitive data never leaves the truck.&lt;/p&gt;&lt;p&gt;It’s a really inspiring example of a council embracing new technology to reduce costs and improve services for their community.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-02-18T15:56:06.977Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/</id>
+        <title>Why is Machine Learning such a big deal for Computer Vision?</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/"/>
+        <content type="html">&lt;p&gt;Computer Vision - teaching computers to understand images - is a classically hard problem.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Why? Because computers don’t see images at all - just numbers where humans have had millions of years to become great at seeing.&lt;/p&gt;&lt;p&gt;So why are modern Machine Learning techniques such a big deal for CV? It is now clear that basic image understanding can be reduced to a fuzzy pattern matching exercise and that’s where our current ML is at. And modern ML is a massive step up from where CV was only a decade ago.&lt;/p&gt;&lt;p&gt;Two, the reams of video data we are producing provide both the incentive and the means to solve the problem. CV can add value to video data produced in industries such as security, manufacturing and medicine by processing it quickly and efficiently, much cheaper than people can. The same data can be used to train the ML models to process it.&lt;/p&gt;&lt;p&gt;The killer app for ML for CV? Edge processing of video. Managing privacy concerns inherent with video recordings, and bandwidth issues to stream video to the cloud from remote sites both mean that processing video at the edge, before sending results to the cloud is a massive win.&lt;/p&gt;&lt;p&gt;My prediction: it’s only going to get bigger.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-02-14T17:43:59.464Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/</id>
+        <title>Designing for flexibility</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/"/>
+        <content type="html">&lt;p&gt;When building a new software product, founders are typically laser-focussed on building a product that meets their immediate business needs for launch. With limited time and money to bring a product to market, that’s wise. Just be aware that too tight a focus often leads to rigid software &amp;amp; systems and can cause significant pain after launch.&lt;/p&gt;&lt;p&gt;The high level characteristics of a software system, such as its flexibility, scalability and stability become increasingly hard to change as the system is developed. They’re hard to retrofit, so it’s important to think about what’s important up front, and plan for it.&lt;/p&gt;&lt;p&gt;Yes, building to flex, grow, scale and be reliable will take more effort up front. But the up front effort pales in comparison to the effort to achieve the same once the system is developed.&lt;/p&gt;&lt;p&gt;If you’re building a tech business, you need a product that will grow with you &amp;amp; let you achieve your business goals.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://pixiotix.com&#34;&gt;Pixiotix&lt;/a&gt; specialises in working with founders to make pragmatic system, software and database architectural and design decisions that will give you a clear path forward to an awesome product. Check out the site &amp;amp; get in touch to see how we can help.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-02-09T17:32:18.066Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/</id>
+        <title>What&#39;s your IP?</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/"/>
+        <content type="html">&lt;p&gt;When it comes down to it, there’s a lot of commonality between SaaS products. Signup, login, user management, dashboards, integrations. There’s a myriad of ways you can access / buy / build this functionality and there’s little technical risk involved in getting it working. A key question early on is: “What’s your intellectual property”?&lt;/p&gt;&lt;p&gt;Your IP is key because it’s what differentiates your product from others - having strong IP is key to not being overtaken by a bigger, better funded competitor.&lt;/p&gt;&lt;p&gt;But developing your IP will be harder, slower and carry considerably more technical risk than developing the rest of the product. Finding engineers who can build what you need will be harder too.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ask yourself early on what’s unique about your product? What’s the fundamental technical core to what you’re trying to do? How can you increase your understanding &amp;amp; decrease the technical and resourcing risks so you’re not surprised down the track?&lt;/p&gt;&lt;p&gt;Look after your IP and your IP will look after you.&lt;/p&gt;&lt;p&gt;Pixiotix specialises in consulting for founders developing innovative software / hardware products with critical IP. Check out &lt;a href=&#34;https://pixiotix.com&#34;&gt;https://pixiotix.com&lt;/a&gt; and get in touch to find out more.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <updated>2021-01-31T16:48:48.786Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/</id>
+        <title>When a measure becomes a target...</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/"/>
+        <content type="html">&lt;p&gt;The saying “When a measure becomes a target, it ceases to be a good measure” applies very well to software development. If you’re trying to measure output / quality in software development using any simple measure you’re doing it wrong.&lt;/p&gt;&lt;p&gt;Measuring lines of code? Expect verbose code...&lt;br&gt;Measuring tickets closed? Expect smaller tickets…&lt;br&gt;Measuring features completed? Expect a drop in quality...&lt;/p&gt;&lt;p&gt;Pushing harder on these metrics when the going gets tough is only going to lead to developers gaming the metric, consciously or unconsciously.&lt;/p&gt;&lt;p&gt;The golden rule?&amp;nbsp;&lt;/p&gt;&lt;p&gt;Build a team you can trust... and trust them.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <category term="Leadership" />
+        <updated>2021-01-26T18:15:20.926Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/26/31877259.beware-of-the-cargo-cult/</id>
+        <title>Beware of the cargo-cult</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/26/31877259.beware-of-the-cargo-cult/"/>
+        <content type="html">&lt;p&gt;Got a technical problem to solve? Analysing data? Machine learning! Deploying code? Spin up a Kubernetes cluster! Need a web app? Jump into React! Sharing information? Crank up a blockchain!&lt;/p&gt;&lt;p&gt;Not so fast! All technologies have their positives and negatives, and their applicability, costs and benefits vary greatly based on the problem they’re applied to and particularly the scale of that problem.&lt;/p&gt;&lt;p&gt;So consider the options carefully - Cassandra vs RDS vs MySQL vs sqlite? Kubernetes cluster vs EC2 vs hosted server? Each decision is critical - avoid the lure of the cargo cult.&lt;/p&gt;&lt;p&gt;Having trouble making a call on which technologies to use in your startup? Need some help evaluating the options, keeping costs low while you start, while being ready to scale? Get in touch with &lt;a href=&#34;https://pixiotix.com&#34;&gt;Pixiotix&lt;/a&gt; and get considered, independent, practical advice on these problems and more.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-25T15:32:37.829Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/25/31837722.developers-dont-make-your-life-easy/</id>
+        <title>Developers: don&#39;t make your life easy</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/25/31837722.developers-dont-make-your-life-easy/"/>
+        <content type="html">&lt;p&gt;Software developers, your job *isn’t* to make your work easy. Software development involves a lot of tradeoffs, and if your thought process is “what’s the easiest way to solve this problem?”, you’re not going about it the right way.&lt;/p&gt;&lt;p&gt;Think longer term, bigger picture. Understand that all those fiddly little decisions you need to make day-to-day add up to significant impact on the customer, the team and ultimately the company.&lt;/p&gt;&lt;p&gt;If you hit a bug while looking for some other issue, figure out what’s going on and fix it! If adding a small new feature would make the code unwieldy, restructure. Make sure columns in tables sort correctly - not “technically correct” - but “as the customer would expect”. Think through those frustrating corner cases and deal with them, Expect things to fail and handle errors appropriately!&lt;/p&gt;&lt;p&gt;Day to day micro-decisions from engineers have a massive impact on customer experience, product quality, code quality, and ultimately on the company bottom-line.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-24T13:24:37.638Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/22/31760995.step-back-to-move-forward/</id>
+        <title>Step back to move forward</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/22/31760995.step-back-to-move-forward/"/>
+        <content type="html">&lt;p&gt;When I’m called over to help out with a tricky problem in a complex software system, I’m typically hit with lots of detail on how the problem is manifesting. Typically my go-to response is “let’s take a step back”...&lt;/p&gt;&lt;p&gt;In a lot of instances, issues that manifest in a very specific way are in fact symptoms of a larger scale problem, so it’s important to put them in context. Pull back far enough, and the bigger problem should become apparent - staying micro-focussed can obscure the view.&lt;/p&gt;&lt;p&gt;It’s an unfortunate fact of Software Engineering that failure modes are typically the worst tested code paths, so a failure at one level will often manifest as a subsequent failure at another level. Make sure both (or all!) problems contributing are identified and fixed.&lt;/p&gt;&lt;p&gt;When problem solving, make sure you don’t miss the forest for the trees.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-21T16:20:35.779Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/21/31728180.hiring-engineers-stop-chasing-unicorns/</id>
+        <title>Hiring Engineers - stop chasing unicorns</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/21/31728180.hiring-engineers-stop-chasing-unicorns/"/>
+        <content type="html">&lt;p&gt;Having trouble finding Software Engineers who are experts with years of experience in the exact technology you need? Well I’ll let you in on a secret - you need to stop looking for unicorns…&lt;br&gt;&lt;br&gt;Software languages, tools and systems move so fast that if an engineer isn’t continually learning, they’re falling behind. But great engineers aren’t just trying to keep up - they’re driven to experiment and learn. They’re always looking for ways to make their projects more efficient - whether that’s by tweaking their working environment, automating mundane tasks or learning whole new languages.&lt;br&gt;&lt;br&gt;An engineer with three languages and two web frameworks under their belt is going to have no problem getting up to speed on some missing experience if they’re sufficiently motivated.&lt;br&gt;&lt;br&gt;Look for evidence of passion, learning and experimentation and use this to help your hiring decisions.&lt;br&gt;&lt;br&gt;🦄 🌈&amp;nbsp;&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Leadership" />
+        <updated>2021-01-20T16:28:40.802Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/20/31695977.remote-the-future-of-work/</id>
+        <title>Remote - the future of work?</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/20/31695977.remote-the-future-of-work/"/>
+        <content type="html">&lt;p&gt;When I, along with so many other professionals suddenly started working from home last year, I thought it would be awesome. And it certainly had its advantages - no commute, less interruptions, more flexibility to exercise &amp;amp; spend family time. Many tech folk rejoiced and declared that this was the way we should all work, all the time.&lt;/p&gt;&lt;p&gt;But work-at-home is no panacea. Many people simply don’t have the space / separation to do long term focussed work at home. Many have kids, family and house-mates around. Internet access varies wildly across cities and suburbs. Bad ergonomics can have a massive impact on people’s health when they are subjected to them full time.&lt;/p&gt;&lt;p&gt;It is also considerably harder to collaborate effectively remotely. Even with instant messaging, teleconferencing, virtual whiteboards etc, the ease of collaboration that can be obtained standing around a whiteboard in a meeting cannot be matched.&lt;/p&gt;&lt;p&gt;I’m about to take my business out of the small space I have carved out at home and full time into a co-working space. I’m looking forward to the change of scene, the separation from family, the tea room, and yes, even talking to other occupants of the space!&lt;/p&gt;&lt;p&gt;Even the short commute is appealing - a little bookend to the working day.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Long term, I’d love to see companies experimenting with hybrid office/remote working setup. Where “remote” could mean home / paid co-work / or a satellite office. This could be a killer combination that balances flexibility &amp;amp; lifestyle with employee health and in-person collaboration which is so important.&lt;/p&gt;&lt;p&gt;Also published on &lt;a href=&#34;https://www.linkedin.com/pulse/remote-future-work-daniel-moore-/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Leadership" />
+        <updated>2021-01-19T17:17:46.561Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/18/31621188.design-review/</id>
+        <title>Design review</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/18/31621188.design-review/"/>
+        <content type="html">&lt;p&gt;Significant pieces of engineering work can benefit greatly from design review. The review process can be as simple as an informal chat between peers or follow a formal process with a proposal document and written feedback or an in-person review session.&lt;/p&gt;&lt;p&gt;Design review is particularly valuable when a problem is highly constrained through user requirements or technical difficulty.&lt;/p&gt;&lt;p&gt;Design discussions often swing wildly between a number of proposals which all seem reasonable at first glance but are discounted due to various deficiencies with respect to requirements. Ensure the team feels empowered to challenge proposals, and not threatened by having their ideas challenged.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a leader, prepare for your proposals to be found wanting by the team - it can hurt but if they come up with better proposals, you’re winning.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-17T14:46:56.968Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/17/31599270.communication-is-key/</id>
+        <title>Communication is key</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/17/31599270.communication-is-key/"/>
+        <content type="html">&lt;p&gt;Strong collaboration requires strong communication. Building a culture of strong, open communication is critical in the success of teams.&lt;/p&gt;&lt;p&gt;Good communication is clear &amp;amp; concise - it gets to the point and stays on the point.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Good communication is correct and consistent - it’s fine to not have all the answers, or be confident about something. Giving a solid answer may require some research and it’s likely everyone will benefit from it.&lt;/p&gt;&lt;p&gt;Encourage participation in discussions, and ensure contributions are heard and considered.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Leadership" />
+        <updated>2021-01-16T16:07:36.765Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/16/31574916.code-review/</id>
+        <title>Code review</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/16/31574916.code-review/"/>
+        <content type="html">&lt;p&gt;A good code review process can greatly improve code quality while bringing significant benefits in engineering team culture.&amp;nbsp;&lt;/p&gt;&lt;p&gt;At its most basic, code review helps catch errors that would otherwise have been missed by the author of a code change. Involving more senior engineers and/or those with more experience in a particular codebase or technique can catch higher level issues such as leaky abstractions, locking hierarchy or threading problems.&lt;/p&gt;&lt;p&gt;But just as importantly, code review can be used to encourage engineers to take responsibility for their work. Not just make something work, but think through what they’re doing, understand it, make a good change, and be prepared to defend it.&lt;/p&gt;&lt;p&gt;A team that can respectfully give feedback and even challenge each others work is a stronger team.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-15T14:57:23.072Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/</id>
+        <title>The time / scope / quality tradeoff</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/"/>
+        <content type="html">&lt;p&gt;The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.&lt;/p&gt;&lt;p&gt;Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.&lt;/p&gt;&lt;p&gt;Respect the time / scope / quality tradeoff.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-13T11:56:46.167Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/</id>
+        <title>Rigor in Software Development</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/"/>
+        <content type="html">&lt;p&gt;Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.&lt;/p&gt;&lt;p&gt;By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.&lt;/p&gt;&lt;p&gt;Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Don’t assume a development team will deliver on system requirements that haven’t been specified.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-12T16:19:40.548Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/</id>
+        <title>Attention to detail</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/"/>
+        <content type="html">&lt;p&gt;Attention to detail is critical in software development. Software is described as code, and computers execute the code as it is written, regardless of the intent of the developer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In the best case, errors are picked up by the developers editor or compiler and can be rapidly fixed. Worst case, errors can lurk for years undetected, causing intermittent small failures, or eventually a critical failure.&lt;/p&gt;&lt;p&gt;When every character matters, it pays to “dot your i’s and cross your t’s”.&amp;nbsp;&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-01-11T15:06:19.990Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2020/12/18/26002042.pixiotix/</id>
+        <title>Pixiotix</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2020/12/18/26002042.pixiotix/"/>
+        <content type="html">&lt;p&gt;From exceptional circumstances come new directions: announcing &lt;strong&gt;Pixiotix&lt;/strong&gt; &lt;strong&gt;Consulting&lt;/strong&gt; - helping deep-tech companies start, innovate, deliver and grow.&lt;/p&gt;&lt;p&gt;Pixiotix allows me to bring my skills and experience of over 20 years working in innovative, research and development focussed startups and scaleups to a whole range of new and developing ventures.&lt;/p&gt;&lt;p&gt;With a broad and deep background in Software Engineering,Technical Leadership and Product Development, and a distinct focus on deep-tech / high-tech / emerging tech, Pixiotix can help startups &amp;amp; scaleups in many different ways.&lt;/p&gt;&lt;p&gt;I’m always keen to chat to startup founders, so please drop me a line.&lt;/p&gt;&lt;p&gt;I’d really appreciate your support - please sign up to this list, follow &lt;a href=&#34;https://www.linkedin.com/company/pixiotix&#34;&gt;Pixiotix&lt;/a&gt; and/or &lt;a href=&#34;https://www.linkedin.com/in/danielxmoore&#34;&gt;myself&lt;/a&gt; on LinkedIn and by all means pass on this announcement to colleagues who might be interested to hear more.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Announcements" />
+        <updated>2020-12-17T14:31:09.511Z</updated>
+    </entry>
+</feed>

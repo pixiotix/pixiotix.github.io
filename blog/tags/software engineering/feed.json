@@ -1,0 +1,119 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixiotix • All posts by \"software engineering\" tag",
+    "description": "",
+    "home_page_url": "https://pixiotix.com",
+    "items": [
+        {
+            "id": "https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/",
+            "url": "https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/",
+            "title": "Designing for flexibility",
+            "date_published": "2021-02-09T17:32:18.066Z",
+            "content_html": "<p>When building a new software product, founders are typically laser-focussed on building a product that meets their immediate business needs for launch. With limited time and money to bring a product to market, that’s wise. Just be aware that too tight a focus often leads to rigid software &amp; systems and can cause significant pain after launch.</p><p>The high level characteristics of a software system, such as its flexibility, scalability and stability become increasingly hard to change as the system is developed. They’re hard to retrofit, so it’s important to think about what’s important up front, and plan for it.</p><p>Yes, building to flex, grow, scale and be reliable will take more effort up front. But the up front effort pales in comparison to the effort to achieve the same once the system is developed.</p><p>If you’re building a tech business, you need a product that will grow with you &amp; let you achieve your business goals.</p><p><a href=\"https://pixiotix.com\">Pixiotix</a> specialises in working with founders to make pragmatic system, software and database architectural and design decisions that will give you a clear path forward to an awesome product. Check out the site &amp; get in touch to see how we can help.</p><p></p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/",
+            "url": "https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/",
+            "title": "When a measure becomes a target...",
+            "date_published": "2021-01-26T18:15:20.926Z",
+            "content_html": "<p>The saying “When a measure becomes a target, it ceases to be a good measure” applies very well to software development. If you’re trying to measure output / quality in software development using any simple measure you’re doing it wrong.</p><p>Measuring lines of code? Expect verbose code...<br>Measuring tickets closed? Expect smaller tickets…<br>Measuring features completed? Expect a drop in quality...</p><p>Pushing harder on these metrics when the going gets tough is only going to lead to developers gaming the metric, consciously or unconsciously.</p><p>The golden rule?&nbsp;</p><p>Build a team you can trust... and trust them.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering",
+                "Leadership"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/26/31877259.beware-of-the-cargo-cult/",
+            "url": "https://pixiotix.com/blog/2021/01/26/31877259.beware-of-the-cargo-cult/",
+            "title": "Beware of the cargo-cult",
+            "date_published": "2021-01-25T15:32:37.829Z",
+            "content_html": "<p>Got a technical problem to solve? Analysing data? Machine learning! Deploying code? Spin up a Kubernetes cluster! Need a web app? Jump into React! Sharing information? Crank up a blockchain!</p><p>Not so fast! All technologies have their positives and negatives, and their applicability, costs and benefits vary greatly based on the problem they’re applied to and particularly the scale of that problem.</p><p>So consider the options carefully - Cassandra vs RDS vs MySQL vs sqlite? Kubernetes cluster vs EC2 vs hosted server? Each decision is critical - avoid the lure of the cargo cult.</p><p>Having trouble making a call on which technologies to use in your startup? Need some help evaluating the options, keeping costs low while you start, while being ready to scale? Get in touch with <a href=\"https://pixiotix.com\">Pixiotix</a> and get considered, independent, practical advice on these problems and more.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/25/31837722.developers-dont-make-your-life-easy/",
+            "url": "https://pixiotix.com/blog/2021/01/25/31837722.developers-dont-make-your-life-easy/",
+            "title": "Developers: don't make your life easy",
+            "date_published": "2021-01-24T13:24:37.638Z",
+            "content_html": "<p>Software developers, your job *isn’t* to make your work easy. Software development involves a lot of tradeoffs, and if your thought process is “what’s the easiest way to solve this problem?”, you’re not going about it the right way.</p><p>Think longer term, bigger picture. Understand that all those fiddly little decisions you need to make day-to-day add up to significant impact on the customer, the team and ultimately the company.</p><p>If you hit a bug while looking for some other issue, figure out what’s going on and fix it! If adding a small new feature would make the code unwieldy, restructure. Make sure columns in tables sort correctly - not “technically correct” - but “as the customer would expect”. Think through those frustrating corner cases and deal with them, Expect things to fail and handle errors appropriately!</p><p>Day to day micro-decisions from engineers have a massive impact on customer experience, product quality, code quality, and ultimately on the company bottom-line.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/22/31760995.step-back-to-move-forward/",
+            "url": "https://pixiotix.com/blog/2021/01/22/31760995.step-back-to-move-forward/",
+            "title": "Step back to move forward",
+            "date_published": "2021-01-21T16:20:35.779Z",
+            "content_html": "<p>When I’m called over to help out with a tricky problem in a complex software system, I’m typically hit with lots of detail on how the problem is manifesting. Typically my go-to response is “let’s take a step back”...</p><p>In a lot of instances, issues that manifest in a very specific way are in fact symptoms of a larger scale problem, so it’s important to put them in context. Pull back far enough, and the bigger problem should become apparent - staying micro-focussed can obscure the view.</p><p>It’s an unfortunate fact of Software Engineering that failure modes are typically the worst tested code paths, so a failure at one level will often manifest as a subsequent failure at another level. Make sure both (or all!) problems contributing are identified and fixed.</p><p>When problem solving, make sure you don’t miss the forest for the trees.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/18/31621188.design-review/",
+            "url": "https://pixiotix.com/blog/2021/01/18/31621188.design-review/",
+            "title": "Design review",
+            "date_published": "2021-01-17T14:46:56.968Z",
+            "content_html": "<p>Significant pieces of engineering work can benefit greatly from design review. The review process can be as simple as an informal chat between peers or follow a formal process with a proposal document and written feedback or an in-person review session.</p><p>Design review is particularly valuable when a problem is highly constrained through user requirements or technical difficulty.</p><p>Design discussions often swing wildly between a number of proposals which all seem reasonable at first glance but are discounted due to various deficiencies with respect to requirements. Ensure the team feels empowered to challenge proposals, and not threatened by having their ideas challenged.&nbsp;</p><p>As a leader, prepare for your proposals to be found wanting by the team - it can hurt but if they come up with better proposals, you’re winning.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/16/31574916.code-review/",
+            "url": "https://pixiotix.com/blog/2021/01/16/31574916.code-review/",
+            "title": "Code review",
+            "date_published": "2021-01-15T14:57:23.072Z",
+            "content_html": "<p>A good code review process can greatly improve code quality while bringing significant benefits in engineering team culture.&nbsp;</p><p>At its most basic, code review helps catch errors that would otherwise have been missed by the author of a code change. Involving more senior engineers and/or those with more experience in a particular codebase or technique can catch higher level issues such as leaky abstractions, locking hierarchy or threading problems.</p><p>But just as importantly, code review can be used to encourage engineers to take responsibility for their work. Not just make something work, but think through what they’re doing, understand it, make a good change, and be prepared to defend it.</p><p>A team that can respectfully give feedback and even challenge each others work is a stronger team.</p><p></p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/",
+            "url": "https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/",
+            "title": "The time / scope / quality tradeoff",
+            "date_published": "2021-01-13T11:56:46.167Z",
+            "content_html": "<p>The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.</p><p>Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&nbsp;</p><p>If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.</p><p>Respect the time / scope / quality tradeoff.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/",
+            "url": "https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/",
+            "title": "Rigor in Software Development",
+            "date_published": "2021-01-12T16:19:40.548Z",
+            "content_html": "<p>Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.</p><p>By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.</p><p>Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&nbsp;</p><p>Don’t assume a development team will deliver on system requirements that haven’t been specified.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/",
+            "url": "https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/",
+            "title": "Attention to detail",
+            "date_published": "2021-01-11T15:06:19.990Z",
+            "content_html": "<p>Attention to detail is critical in software development. Software is described as code, and computers execute the code as it is written, regardless of the intent of the developer.&nbsp;</p><p>In the best case, errors are picked up by the developers editor or compiler and can be rapidly fixed. Worst case, errors can lurk for years undetected, causing intermittent small failures, or eventually a critical failure.</p><p>When every character matters, it pays to “dot your i’s and cross your t’s”.&nbsp;</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        }
+    ]
+}

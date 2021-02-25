@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Pixiotix • Posts by &#34;innovation&#34; tag</title>
+        <link>https://pixiotix.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Mon, 22 Feb 2021 07:43:54 +1100</pubDate>
+        <lastBuildDate>Mon, 22 Feb 2021 07:43:54 +1100</lastBuildDate>
+        <category>Pixiotix</category>
+        <category>Announcements</category>
+        <category>Software Engineering</category>
+        <category>Leadership</category>
+        <category>Innovation</category>
+        <category>Machine Learning</category>
+        <category>Computer Vision</category>
+        <category>History</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/</guid>
+            <title>Starting out in R&amp;D</title>
+            <link>https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/</link>
+            <category>Pixiotix</category>
+            <category>Innovation</category>
+            <category>History</category>
+            <pubDate>Mon, 22 Feb 2021 07:43:54 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;Upon leaving University, I joined &lt;a href=&#34;https://www.linkedin.com/company/csiro/&#34;&gt;CSIRO&lt;/a&gt; and was thrown straight in the deep-end as the solo developer of the system software for the RoadCrack road-survey vehicle.&lt;/p&gt;&lt;p&gt;The prototype vehicle was capable of imaging the road, processing and classifying cracks down to 1 mm resolution at 105 kmph.&lt;/p&gt;&lt;p&gt;The software interfaced with custom FPGA based image acquisition hardware, distributing the image data from industrial line-scan cameras via high speed frame grabbers and a network of 5+ Digital Alpha computers which performed the processing. Data was reported to a front-end control user interface in real-time.&lt;/p&gt;&lt;p&gt;Image processing code developed elsewhere in CSIRO extracted cracking and classified each image. Development predated contemporary machine learning algorithms and relied on classical computer vision techniques.&lt;/p&gt;&lt;p&gt;The opportunity to work on the RoadCrack project and the support of the crew at CSIRO was instrumental in kicking off my ongoing career in innovative, R&amp;amp;D driven companies.&lt;/p&gt;&lt;p&gt;More details on RoadCrack at https://csiropedia.csiro.au/roadcrack-1999/ and check out a promo video at https://csiropedia.csiro.au/automated-pavement-crack-detection-and-classification-1994/&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</guid>
+            <title>Automated asset inspection with ML</title>
+            <link>https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</link>
+            <category>Pixiotix</category>
+            <category>Innovation</category>
+            <category>Machine Learning</category>
+            <category>Computer Vision</category>
+            <pubDate>Fri, 19 Feb 2021 02:56:06 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;I tuned in for a particularly interesting presentation as part of Smart Cities Summit 2021 yesterday. Some amazing work being done by Moreton Bay Regional Council and Retina Visions on automated visual asset inspection. They are leveraging their existing garbage collection vehicles to acquire video footage of the road and roadside during their rounds, and processing that video to identify all kinds of maintenance issues.&lt;/p&gt;&lt;p&gt;From road defects including cracking to curbside rubbish to overhanging trees - all detected automatically and fed directly into the council asset management system and used to dispatch maintenance crews.&lt;/p&gt;&lt;p&gt;I also noted a great use of edge AI - to mitigate privacy issues, both faces and license plates are detected on the acquisition device and blurred as the footage is acquired. The redacted footage is then sent back to the cloud for the gruntier processing work of detecting and classifying the defect types. In this way it’s possible to leverage the huge processing power in the cloud whilst ensuring that sensitive data never leaves the truck.&lt;/p&gt;&lt;p&gt;It’s a really inspiring example of a council embracing new technology to reduce costs and improve services for their community.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/</guid>
+            <title>What&#39;s your IP?</title>
+            <link>https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/</link>
+            <category>Pixiotix</category>
+            <category>Innovation</category>
+            <pubDate>Mon, 01 Feb 2021 03:48:48 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;When it comes down to it, there’s a lot of commonality between SaaS products. Signup, login, user management, dashboards, integrations. There’s a myriad of ways you can access / buy / build this functionality and there’s little technical risk involved in getting it working. A key question early on is: “What’s your intellectual property”?&lt;/p&gt;&lt;p&gt;Your IP is key because it’s what differentiates your product from others - having strong IP is key to not being overtaken by a bigger, better funded competitor.&lt;/p&gt;&lt;p&gt;But developing your IP will be harder, slower and carry considerably more technical risk than developing the rest of the product. Finding engineers who can build what you need will be harder too.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ask yourself early on what’s unique about your product? What’s the fundamental technical core to what you’re trying to do? How can you increase your understanding &amp;amp; decrease the technical and resourcing risks so you’re not surprised down the track?&lt;/p&gt;&lt;p&gt;Look after your IP and your IP will look after you.&lt;/p&gt;&lt;p&gt;Pixiotix specialises in consulting for founders developing innovative software / hardware products with critical IP. Check out &lt;a href=&#34;https://pixiotix.com&#34;&gt;https://pixiotix.com&lt;/a&gt; and get in touch to find out more.&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixiotix.com</id>
+    <title>Pixiotix • Posts by &#34;history&#34; tag</title>
+    <link href="https://pixiotix.com" />
+    <updated>2021-02-21T20:43:54.973Z</updated>
+    <category term="Pixiotix" />
+    <category term="Announcements" />
+    <category term="Software Engineering" />
+    <category term="Leadership" />
+    <category term="Innovation" />
+    <category term="Machine Learning" />
+    <category term="Computer Vision" />
+    <category term="History" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/</id>
+        <title>Starting out in R&amp;D</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/"/>
+        <content type="html">&lt;p&gt;Upon leaving University, I joined &lt;a href=&#34;https://www.linkedin.com/company/csiro/&#34;&gt;CSIRO&lt;/a&gt; and was thrown straight in the deep-end as the solo developer of the system software for the RoadCrack road-survey vehicle.&lt;/p&gt;&lt;p&gt;The prototype vehicle was capable of imaging the road, processing and classifying cracks down to 1 mm resolution at 105 kmph.&lt;/p&gt;&lt;p&gt;The software interfaced with custom FPGA based image acquisition hardware, distributing the image data from industrial line-scan cameras via high speed frame grabbers and a network of 5+ Digital Alpha computers which performed the processing. Data was reported to a front-end control user interface in real-time.&lt;/p&gt;&lt;p&gt;Image processing code developed elsewhere in CSIRO extracted cracking and classified each image. Development predated contemporary machine learning algorithms and relied on classical computer vision techniques.&lt;/p&gt;&lt;p&gt;The opportunity to work on the RoadCrack project and the support of the crew at CSIRO was instrumental in kicking off my ongoing career in innovative, R&amp;amp;D driven companies.&lt;/p&gt;&lt;p&gt;More details on RoadCrack at https://csiropedia.csiro.au/roadcrack-1999/ and check out a promo video at https://csiropedia.csiro.au/automated-pavement-crack-detection-and-classification-1994/&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="History" />
+        <updated>2021-02-21T20:43:54.973Z</updated>
+    </entry>
+</feed>

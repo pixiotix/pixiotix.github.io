@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixiotix • All posts by \"history\" tag",
+    "description": "",
+    "home_page_url": "https://pixiotix.com",
+    "items": [
+        {
+            "id": "https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/",
+            "url": "https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/",
+            "title": "Starting out in R&D",
+            "date_published": "2021-02-21T20:43:54.973Z",
+            "content_html": "<p>Upon leaving University, I joined <a href=\"https://www.linkedin.com/company/csiro/\">CSIRO</a> and was thrown straight in the deep-end as the solo developer of the system software for the RoadCrack road-survey vehicle.</p><p>The prototype vehicle was capable of imaging the road, processing and classifying cracks down to 1 mm resolution at 105 kmph.</p><p>The software interfaced with custom FPGA based image acquisition hardware, distributing the image data from industrial line-scan cameras via high speed frame grabbers and a network of 5+ Digital Alpha computers which performed the processing. Data was reported to a front-end control user interface in real-time.</p><p>Image processing code developed elsewhere in CSIRO extracted cracking and classified each image. Development predated contemporary machine learning algorithms and relied on classical computer vision techniques.</p><p>The opportunity to work on the RoadCrack project and the support of the crew at CSIRO was instrumental in kicking off my ongoing career in innovative, R&amp;D driven companies.</p><p>More details on RoadCrack at https://csiropedia.csiro.au/roadcrack-1999/ and check out a promo video at https://csiropedia.csiro.au/automated-pavement-crack-detection-and-classification-1994/</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "History"
+            ]
+        }
+    ]
+}

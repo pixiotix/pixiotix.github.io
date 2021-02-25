@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixiotix.com</id>
+    <title>Pixiotix • Posts by &#34;computer vision&#34; tag</title>
+    <link href="https://pixiotix.com" />
+    <updated>2021-02-18T15:56:06.977Z</updated>
+    <category term="Pixiotix" />
+    <category term="Announcements" />
+    <category term="Software Engineering" />
+    <category term="Leadership" />
+    <category term="Innovation" />
+    <category term="Machine Learning" />
+    <category term="Computer Vision" />
+    <category term="History" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</id>
+        <title>Automated asset inspection with ML</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/"/>
+        <content type="html">&lt;p&gt;I tuned in for a particularly interesting presentation as part of Smart Cities Summit 2021 yesterday. Some amazing work being done by Moreton Bay Regional Council and Retina Visions on automated visual asset inspection. They are leveraging their existing garbage collection vehicles to acquire video footage of the road and roadside during their rounds, and processing that video to identify all kinds of maintenance issues.&lt;/p&gt;&lt;p&gt;From road defects including cracking to curbside rubbish to overhanging trees - all detected automatically and fed directly into the council asset management system and used to dispatch maintenance crews.&lt;/p&gt;&lt;p&gt;I also noted a great use of edge AI - to mitigate privacy issues, both faces and license plates are detected on the acquisition device and blurred as the footage is acquired. The redacted footage is then sent back to the cloud for the gruntier processing work of detecting and classifying the defect types. In this way it’s possible to leverage the huge processing power in the cloud whilst ensuring that sensitive data never leaves the truck.&lt;/p&gt;&lt;p&gt;It’s a really inspiring example of a council embracing new technology to reduce costs and improve services for their community.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-02-18T15:56:06.977Z</updated>
+    </entry>
+    <entry>
+        <id>https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/</id>
+        <title>Why is Machine Learning such a big deal for Computer Vision?</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/02/15/32554334.why-is-machine-learning-such-a-big/"/>
+        <content type="html">&lt;p&gt;Computer Vision - teaching computers to understand images - is a classically hard problem.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Why? Because computers don’t see images at all - just numbers where humans have had millions of years to become great at seeing.&lt;/p&gt;&lt;p&gt;So why are modern Machine Learning techniques such a big deal for CV? It is now clear that basic image understanding can be reduced to a fuzzy pattern matching exercise and that’s where our current ML is at. And modern ML is a massive step up from where CV was only a decade ago.&lt;/p&gt;&lt;p&gt;Two, the reams of video data we are producing provide both the incentive and the means to solve the problem. CV can add value to video data produced in industries such as security, manufacturing and medicine by processing it quickly and efficiently, much cheaper than people can. The same data can be used to train the ML models to process it.&lt;/p&gt;&lt;p&gt;The killer app for ML for CV? Edge processing of video. Managing privacy concerns inherent with video recordings, and bandwidth issues to stream video to the cloud from remote sites both mean that processing video at the edge, before sending results to the cloud is a massive win.&lt;/p&gt;&lt;p&gt;My prediction: it’s only going to get bigger.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-02-14T17:43:59.464Z</updated>
+    </entry>
+</feed>

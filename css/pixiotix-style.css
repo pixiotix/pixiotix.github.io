@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, #wrap {
+    background: #fff;
+}
+
+#page-footer {
+  border-top: none
+}
+
+body, textarea {
+    color: #333;
+    line-height: 1.6;
+    font-family: Lato, 'Open Sans', sans-serif;
+
+    margin: auto;
+    max-width: 1500px;
+    min-width: 240px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+h1, h2 {
+    line-height: 1.2;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.outer {
+    background: #fff;
+}
+
+.data {
+    text-align: center;
+}
+
+.data h1 {
+    padding-top: 1em;    
+    color: #19468B;
+    font-size: 28px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px; /* navbar height */
+    visibility: hidden;
+}
+
+.main {
+    background-image: url(../svg/gradient.svg);
+    max-width: 100%;
+    height: 250px   ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.main #logo {
+    position: absolute;
+    right:0;
+}
+
+#main_sec {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;      
+}
+
+#main_sec h2 {
+    text-align: left;
+    transform: translate(5%, 0%);
+    font-size: 28px;
+    color: #ffffff;
+}
+
+/* gallery
+================================================== */
+.gallery {
+    position: relative;
+}
+
+.wrapper {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(300px, auto);
+}
+
+.wrapper > div {
+    background: #fff;
+    padding: 1em;
+}
+
+.wrapper > div:nth-child(odd) {
+    background: #fff;
+}
+
+.wrapper h4 {
+    font-size: 18px;
+    color: #19468B;
+}
+
+.wrapper p {
+    font-size: 14px;
+}
+
+.item {
+    padding-top: 2em;
+    justify-content: flex-start;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+#img {
+    width: 4em;
+    height: 4em;
+}
+
+/* sevices
+================================================== */
+.services {
+    position: relative;
+    padding-bottom: 2em;
+}
+
+.services li {
+    color: #707070;
+    list-style-type: disc;
+    font-size: 14px;
+}
+
+.services h4 {
+    color: #19468B;
+    font-size: 18px;
+}
+
+.column {
+    margin-top: 3em;
+    float: left;
+    width: 25%;
+    padding-right: 4em;
+    padding-left: 4em;
+    box-sizing: border-box;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Our People
+================================================== */
+.people {
+    position: relative;
+    padding-bottom: 2em;
+}
+
+.column p {
+    color: #707070;
+    font-size: 14px;
+}
+
+.column h4 {
+    color: #19468B;
+    font-size: 18px;
+}
+
+.column {
+    margin-top: 3em;
+    float: left;
+    width: 50%;
+    padding-right: 4em;
+    padding-left: 4em;
+}
+
+.people .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*---- Contact Us---*/
+
+input[type=text], input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    align-content: center;
+}
+
+input[type=submit] {
+    background-color: #19468B;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    height: 45px;
+    width: 170px;
+}
+
+input[type=submit]:hover {
+    background-color: #19468B;
+}
+
+input, textarea {
+    box-sizing:border-box
+} 
+
+h2 {
+    color: #19468B;
+}
+
+.contact p {
+    color: #707070;
+}
+
+.contact {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* thin version */
+
+@media (max-width: 479px) {
+    .wrapper{
+        grid-template-columns: 1fr;
+        grid-auto-rows: unset;
+    }
+
+    .item {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixiotix • All posts by \"leadership\" tag",
+    "description": "",
+    "home_page_url": "https://pixiotix.com",
+    "items": [
+        {
+            "id": "https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/",
+            "url": "https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/",
+            "title": "When a measure becomes a target...",
+            "date_published": "2021-01-26T18:15:20.926Z",
+            "content_html": "<p>The saying “When a measure becomes a target, it ceases to be a good measure” applies very well to software development. If you’re trying to measure output / quality in software development using any simple measure you’re doing it wrong.</p><p>Measuring lines of code? Expect verbose code...<br>Measuring tickets closed? Expect smaller tickets…<br>Measuring features completed? Expect a drop in quality...</p><p>Pushing harder on these metrics when the going gets tough is only going to lead to developers gaming the metric, consciously or unconsciously.</p><p>The golden rule?&nbsp;</p><p>Build a team you can trust... and trust them.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering",
+                "Leadership"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/21/31728180.hiring-engineers-stop-chasing-unicorns/",
+            "url": "https://pixiotix.com/blog/2021/01/21/31728180.hiring-engineers-stop-chasing-unicorns/",
+            "title": "Hiring Engineers - stop chasing unicorns",
+            "date_published": "2021-01-20T16:28:40.802Z",
+            "content_html": "<p>Having trouble finding Software Engineers who are experts with years of experience in the exact technology you need? Well I’ll let you in on a secret - you need to stop looking for unicorns…<br><br>Software languages, tools and systems move so fast that if an engineer isn’t continually learning, they’re falling behind. But great engineers aren’t just trying to keep up - they’re driven to experiment and learn. They’re always looking for ways to make their projects more efficient - whether that’s by tweaking their working environment, automating mundane tasks or learning whole new languages.<br><br>An engineer with three languages and two web frameworks under their belt is going to have no problem getting up to speed on some missing experience if they’re sufficiently motivated.<br><br>Look for evidence of passion, learning and experimentation and use this to help your hiring decisions.<br><br>🦄 🌈&nbsp;</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Leadership"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/20/31695977.remote-the-future-of-work/",
+            "url": "https://pixiotix.com/blog/2021/01/20/31695977.remote-the-future-of-work/",
+            "title": "Remote - the future of work?",
+            "date_published": "2021-01-19T17:17:46.561Z",
+            "content_html": "<p>When I, along with so many other professionals suddenly started working from home last year, I thought it would be awesome. And it certainly had its advantages - no commute, less interruptions, more flexibility to exercise &amp; spend family time. Many tech folk rejoiced and declared that this was the way we should all work, all the time.</p><p>But work-at-home is no panacea. Many people simply don’t have the space / separation to do long term focussed work at home. Many have kids, family and house-mates around. Internet access varies wildly across cities and suburbs. Bad ergonomics can have a massive impact on people’s health when they are subjected to them full time.</p><p>It is also considerably harder to collaborate effectively remotely. Even with instant messaging, teleconferencing, virtual whiteboards etc, the ease of collaboration that can be obtained standing around a whiteboard in a meeting cannot be matched.</p><p>I’m about to take my business out of the small space I have carved out at home and full time into a co-working space. I’m looking forward to the change of scene, the separation from family, the tea room, and yes, even talking to other occupants of the space!</p><p>Even the short commute is appealing - a little bookend to the working day.&nbsp;</p><p>Long term, I’d love to see companies experimenting with hybrid office/remote working setup. Where “remote” could mean home / paid co-work / or a satellite office. This could be a killer combination that balances flexibility &amp; lifestyle with employee health and in-person collaboration which is so important.</p><p>Also published on <a href=\"https://www.linkedin.com/pulse/remote-future-work-daniel-moore-/\">LinkedIn</a></p>\n",
+            "tags": [
+                "Pixiotix",
+                "Leadership"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/01/17/31599270.communication-is-key/",
+            "url": "https://pixiotix.com/blog/2021/01/17/31599270.communication-is-key/",
+            "title": "Communication is key",
+            "date_published": "2021-01-16T16:07:36.765Z",
+            "content_html": "<p>Strong collaboration requires strong communication. Building a culture of strong, open communication is critical in the success of teams.</p><p>Good communication is clear &amp; concise - it gets to the point and stays on the point.&nbsp;</p><p>Good communication is correct and consistent - it’s fine to not have all the answers, or be confident about something. Giving a solid answer may require some research and it’s likely everyone will benefit from it.</p><p>Encourage participation in discussions, and ensure contributions are heard and considered.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Leadership"
+            ]
+        }
+    ]
+}

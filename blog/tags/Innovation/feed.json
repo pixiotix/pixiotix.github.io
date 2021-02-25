@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixiotix • All posts by \"innovation\" tag",
+    "description": "",
+    "home_page_url": "https://pixiotix.com",
+    "items": [
+        {
+            "id": "https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/",
+            "url": "https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/",
+            "title": "Starting out in R&D",
+            "date_published": "2021-02-21T20:43:54.973Z",
+            "content_html": "<p>Upon leaving University, I joined <a href=\"https://www.linkedin.com/company/csiro/\">CSIRO</a> and was thrown straight in the deep-end as the solo developer of the system software for the RoadCrack road-survey vehicle.</p><p>The prototype vehicle was capable of imaging the road, processing and classifying cracks down to 1 mm resolution at 105 kmph.</p><p>The software interfaced with custom FPGA based image acquisition hardware, distributing the image data from industrial line-scan cameras via high speed frame grabbers and a network of 5+ Digital Alpha computers which performed the processing. Data was reported to a front-end control user interface in real-time.</p><p>Image processing code developed elsewhere in CSIRO extracted cracking and classified each image. Development predated contemporary machine learning algorithms and relied on classical computer vision techniques.</p><p>The opportunity to work on the RoadCrack project and the support of the crew at CSIRO was instrumental in kicking off my ongoing career in innovative, R&amp;D driven companies.</p><p>More details on RoadCrack at https://csiropedia.csiro.au/roadcrack-1999/ and check out a promo video at https://csiropedia.csiro.au/automated-pavement-crack-detection-and-classification-1994/</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "History"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
+            "url": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
+            "title": "Automated asset inspection with ML",
+            "date_published": "2021-02-18T15:56:06.977Z",
+            "content_html": "<p>I tuned in for a particularly interesting presentation as part of Smart Cities Summit 2021 yesterday. Some amazing work being done by Moreton Bay Regional Council and Retina Visions on automated visual asset inspection. They are leveraging their existing garbage collection vehicles to acquire video footage of the road and roadside during their rounds, and processing that video to identify all kinds of maintenance issues.</p><p>From road defects including cracking to curbside rubbish to overhanging trees - all detected automatically and fed directly into the council asset management system and used to dispatch maintenance crews.</p><p>I also noted a great use of edge AI - to mitigate privacy issues, both faces and license plates are detected on the acquisition device and blurred as the footage is acquired. The redacted footage is then sent back to the cloud for the gruntier processing work of detecting and classifying the defect types. In this way it’s possible to leverage the huge processing power in the cloud whilst ensuring that sensitive data never leaves the truck.</p><p>It’s a really inspiring example of a council embracing new technology to reduce costs and improve services for their community.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "Machine Learning",
+                "Computer Vision"
+            ]
+        },
+        {
+            "id": "https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/",
+            "url": "https://pixiotix.com/blog/2021/02/01/32072277.whats-your-ip/",
+            "title": "What's your IP?",
+            "date_published": "2021-01-31T16:48:48.786Z",
+            "content_html": "<p>When it comes down to it, there’s a lot of commonality between SaaS products. Signup, login, user management, dashboards, integrations. There’s a myriad of ways you can access / buy / build this functionality and there’s little technical risk involved in getting it working. A key question early on is: “What’s your intellectual property”?</p><p>Your IP is key because it’s what differentiates your product from others - having strong IP is key to not being overtaken by a bigger, better funded competitor.</p><p>But developing your IP will be harder, slower and carry considerably more technical risk than developing the rest of the product. Finding engineers who can build what you need will be harder too.&nbsp;</p><p>Ask yourself early on what’s unique about your product? What’s the fundamental technical core to what you’re trying to do? How can you increase your understanding &amp; decrease the technical and resourcing risks so you’re not surprised down the track?</p><p>Look after your IP and your IP will look after you.</p><p>Pixiotix specialises in consulting for founders developing innovative software / hardware products with critical IP. Check out <a href=\"https://pixiotix.com\">https://pixiotix.com</a> and get in touch to find out more.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation"
+            ]
+        }
+    ]
+}
