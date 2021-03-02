@@ -5,6 +5,18 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/02/building-quality-products/",
+            "url": "https://pixiotix.com/blog/2021/03/02/building-quality-products/",
+            "title": "Building quality products",
+            "date_published": "2021-03-02T00:49:28.000Z",
+            "content_html": "<p>How do you deliver <em>quality</em> software products? Lots of automated testing? Go all in with TDD? Build a comprehensive manual test procedure? Invest in pair programming? Wait for your customers to find problems and fight the fires as they pop up?</p>\n<p>It’s easy to focus on a particular testing technique and assume quality delivery. Find bugs, fix bugs, ship software.</p>\n<p>But quality is about much more than that. Quality software comes from teams who care about quality as much as it comes from processes that seek to assure quality.</p>\n<p>Quality isn’t just about lack of bugs. It’s about how your system makes your customers feel - stability, security, consistency, usability, availability, design are all key parts of that experience.</p>\n<p>It’s important to consider all quality across the whole system on a spectrum - which aspects of quality are non-negotiable in your product? Which are important enough to hold a release? Which can be released, but need to be fixed later? What types of issues do you just not care about?</p>\n<p>Define quality requirements and processes based on the overall priorities.</p>\n<p>Decide what quality means for your product, customers and team and have a plan to deliver.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering",
+                "Leadership"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/",
             "url": "https://pixiotix.com/blog/2021/02/10/32388409.designing-for-flexibility/",
             "title": "Designing for flexibility",

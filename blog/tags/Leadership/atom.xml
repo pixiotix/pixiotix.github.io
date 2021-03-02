@@ -3,7 +3,7 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix • Posts by &#34;leadership&#34; tag</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-01-26T18:15:20.926Z</updated>
+    <updated>2021-03-02T00:49:28.000Z</updated>
     <category term="Pixiotix" />
     <category term="Announcements" />
     <category term="Software Engineering" />
@@ -12,6 +12,23 @@
     <category term="Machine Learning" />
     <category term="Computer Vision" />
     <category term="History" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/03/02/building-quality-products/</id>
+        <title>Building quality products</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/03/02/building-quality-products/"/>
+        <content type="html">&lt;p&gt;How do you deliver &lt;em&gt;quality&lt;/em&gt; software products? Lots of automated testing? Go all in with TDD? Build a comprehensive manual test procedure? Invest in pair programming? Wait for your customers to find problems and fight the fires as they pop up?&lt;/p&gt;
+&lt;p&gt;It’s easy to focus on a particular testing technique and assume quality delivery. Find bugs, fix bugs, ship software.&lt;/p&gt;
+&lt;p&gt;But quality is about much more than that. Quality software comes from teams who care about quality as much as it comes from processes that seek to assure quality.&lt;/p&gt;
+&lt;p&gt;Quality isn’t just about lack of bugs. It’s about how your system makes your customers feel - stability, security, consistency, usability, availability, design are all key parts of that experience.&lt;/p&gt;
+&lt;p&gt;It’s important to consider all quality across the whole system on a spectrum - which aspects of quality are non-negotiable in your product? Which are important enough to hold a release? Which can be released, but need to be fixed later? What types of issues do you just not care about?&lt;/p&gt;
+&lt;p&gt;Define quality requirements and processes based on the overall priorities.&lt;/p&gt;
+&lt;p&gt;Decide what quality means for your product, customers and team and have a plan to deliver.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <category term="Leadership" />
+        <updated>2021-03-02T00:49:28.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/01/27/31917185.when-a-measure-becomes-a-target/</id>
         <title>When a measure becomes a target...</title>
