@@ -3,7 +3,7 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix • Posts by &#34;software engineering&#34; tag</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-03-02T00:49:28.000Z</updated>
+    <updated>2021-03-04T02:28:52.000Z</updated>
     <category term="Pixiotix" />
     <category term="Announcements" />
     <category term="Software Engineering" />
@@ -12,6 +12,21 @@
     <category term="Machine Learning" />
     <category term="Computer Vision" />
     <category term="History" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/</id>
+        <title>The Sunk Cost Fallacy</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/"/>
+        <content type="html">&lt;p&gt;It happens to the best of us. You’ve worked super hard, put in the hours, built something that should be awesome, but it’s just not working out. Being the dedicated individual you are, you plough more time into it. You’ve expended so much energy, that you can’t help but continue. Time to think about the Sunk Cost Fallacy.&lt;/p&gt;
+&lt;p&gt;Should you continue down a path? Try a new approach? Abandon and try something new?&lt;/p&gt;
+&lt;p&gt;The Sunk Cost Fallacy tells us that only your current options really matter. Time, energy and money already invested in something has already been spent - it can’t be recovered - it’s a Sunk Cost.&lt;/p&gt;
+&lt;p&gt;Look at your options now, look at their costs going forward, and try to put the past aside. Make a decision, and go for it.&lt;/p&gt;
+&lt;p&gt;Could you do with some help figuring out where your development is at? Looking for some advice and inspiration? Pixiotix provides independent technical consulting &amp;amp; advice for companies working on innovative software &amp;amp; hardware systems. Check out &lt;a href=&#34;https://pixiotix.com/&#34;&gt;https://pixiotix.com&lt;/a&gt; and get in touch to find out more.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <category term="Innovation" />
+        <updated>2021-03-04T02:28:52.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/03/02/building-quality-products/</id>
         <title>Building quality products</title>

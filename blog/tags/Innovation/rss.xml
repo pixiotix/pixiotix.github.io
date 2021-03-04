@@ -5,8 +5,8 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Mon, 22 Feb 2021 07:43:54 +1100</pubDate>
-        <lastBuildDate>Mon, 22 Feb 2021 07:43:54 +1100</lastBuildDate>
+        <pubDate>Thu, 04 Mar 2021 13:28:52 +1100</pubDate>
+        <lastBuildDate>Thu, 04 Mar 2021 13:28:52 +1100</lastBuildDate>
         <category>Pixiotix</category>
         <category>Announcements</category>
         <category>Software Engineering</category>
@@ -15,6 +15,21 @@
         <category>Machine Learning</category>
         <category>Computer Vision</category>
         <category>History</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/</guid>
+            <title>The Sunk Cost Fallacy</title>
+            <link>https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/</link>
+            <category>Pixiotix</category>
+            <category>Software Engineering</category>
+            <category>Innovation</category>
+            <pubDate>Thu, 04 Mar 2021 13:28:52 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;It happens to the best of us. You’ve worked super hard, put in the hours, built something that should be awesome, but it’s just not working out. Being the dedicated individual you are, you plough more time into it. You’ve expended so much energy, that you can’t help but continue. Time to think about the Sunk Cost Fallacy.&lt;/p&gt;
+&lt;p&gt;Should you continue down a path? Try a new approach? Abandon and try something new?&lt;/p&gt;
+&lt;p&gt;The Sunk Cost Fallacy tells us that only your current options really matter. Time, energy and money already invested in something has already been spent - it can’t be recovered - it’s a Sunk Cost.&lt;/p&gt;
+&lt;p&gt;Look at your options now, look at their costs going forward, and try to put the past aside. Make a decision, and go for it.&lt;/p&gt;
+&lt;p&gt;Could you do with some help figuring out where your development is at? Looking for some advice and inspiration? Pixiotix provides independent technical consulting &amp;amp; advice for companies working on innovative software &amp;amp; hardware systems. Check out &lt;a href=&#34;https://pixiotix.com/&#34;&gt;https://pixiotix.com&lt;/a&gt; and get in touch to find out more.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/02/22/32797937.starting-out-in-r-and-d/</guid>
             <title>Starting out in R&amp;D</title>
