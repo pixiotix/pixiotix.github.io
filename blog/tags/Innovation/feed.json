@@ -5,6 +5,18 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/",
+            "url": "https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/",
+            "title": "Let the fires burn",
+            "date_published": "2021-03-05T03:27:37.000Z",
+            "content_html": "<p>I was thinking back on my days in engineering management at a particular very successful scaleup and recalling a bunch of times when we had issues, knew we had them, but we didn’t slow down to address them - we kept moving forward. Our customers knew about them and were telling us in no uncertain terms how unhappy they were.</p>\n<p>And then I considered just how successful we were, and whether that was <em>despite</em> our handling of such issues or <em>because</em> of it.</p>\n<p>I recalled an episode of Masters Of Scale:</p>\n<blockquote>\n<p>If you spend all of your time fighting fires, you may miss critical opportunities to build your business. You’ll be all reaction, and no action. But if you let fires go on too long, you’ll get burned. Deciding which fires you let burn, and how long you let them burn for, can make the difference between success and failure.<br>“</p>\n</blockquote>\n<p>Is the customer always right? Or should you focus on success and worry about them later?</p>\n<p>Check the episode, or really, the whole podcast for more detail &amp; wisdom.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "Business"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/",
             "url": "https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/",
             "title": "The Sunk Cost Fallacy",

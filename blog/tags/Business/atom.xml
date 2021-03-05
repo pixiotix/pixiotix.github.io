@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixiotix.com</id>
+    <title>Pixiotix • Posts by &#34;business&#34; tag</title>
+    <link href="https://pixiotix.com" />
+    <updated>2021-03-05T03:27:37.000Z</updated>
+    <category term="Pixiotix" />
+    <category term="Announcements" />
+    <category term="Software Engineering" />
+    <category term="Leadership" />
+    <category term="Innovation" />
+    <category term="Machine Learning" />
+    <category term="Computer Vision" />
+    <category term="History" />
+    <category term="Business" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/</id>
+        <title>Let the fires burn</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/"/>
+        <content type="html">&lt;p&gt;I was thinking back on my days in engineering management at a particular very successful scaleup and recalling a bunch of times when we had issues, knew we had them, but we didn’t slow down to address them - we kept moving forward. Our customers knew about them and were telling us in no uncertain terms how unhappy they were.&lt;/p&gt;
+&lt;p&gt;And then I considered just how successful we were, and whether that was &lt;em&gt;despite&lt;/em&gt; our handling of such issues or &lt;em&gt;because&lt;/em&gt; of it.&lt;/p&gt;
+&lt;p&gt;I recalled an episode of Masters Of Scale:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you spend all of your time fighting fires, you may miss critical opportunities to build your business. You’ll be all reaction, and no action. But if you let fires go on too long, you’ll get burned. Deciding which fires you let burn, and how long you let them burn for, can make the difference between success and failure.&lt;br&gt;“&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is the customer always right? Or should you focus on success and worry about them later?&lt;/p&gt;
+&lt;p&gt;Check the episode, or really, the whole podcast for more detail &amp;amp; wisdom.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="Business" />
+        <updated>2021-03-05T03:27:37.000Z</updated>
+    </entry>
+</feed>

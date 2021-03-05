@@ -5,8 +5,8 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Thu, 04 Mar 2021 13:28:52 +1100</pubDate>
-        <lastBuildDate>Thu, 04 Mar 2021 13:28:52 +1100</lastBuildDate>
+        <pubDate>Fri, 05 Mar 2021 14:27:37 +1100</pubDate>
+        <lastBuildDate>Fri, 05 Mar 2021 14:27:37 +1100</lastBuildDate>
         <category>Pixiotix</category>
         <category>Announcements</category>
         <category>Software Engineering</category>
@@ -15,6 +15,25 @@
         <category>Machine Learning</category>
         <category>Computer Vision</category>
         <category>History</category>
+        <category>Business</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/</guid>
+            <title>Let the fires burn</title>
+            <link>https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/</link>
+            <category>Pixiotix</category>
+            <category>Innovation</category>
+            <category>Business</category>
+            <pubDate>Fri, 05 Mar 2021 14:27:37 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;I was thinking back on my days in engineering management at a particular very successful scaleup and recalling a bunch of times when we had issues, knew we had them, but we didn’t slow down to address them - we kept moving forward. Our customers knew about them and were telling us in no uncertain terms how unhappy they were.&lt;/p&gt;
+&lt;p&gt;And then I considered just how successful we were, and whether that was &lt;em&gt;despite&lt;/em&gt; our handling of such issues or &lt;em&gt;because&lt;/em&gt; of it.&lt;/p&gt;
+&lt;p&gt;I recalled an episode of Masters Of Scale:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you spend all of your time fighting fires, you may miss critical opportunities to build your business. You’ll be all reaction, and no action. But if you let fires go on too long, you’ll get burned. Deciding which fires you let burn, and how long you let them burn for, can make the difference between success and failure.&lt;br&gt;“&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is the customer always right? Or should you focus on success and worry about them later?&lt;/p&gt;
+&lt;p&gt;Check the episode, or really, the whole podcast for more detail &amp;amp; wisdom.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/</guid>
             <title>The Sunk Cost Fallacy</title>
@@ -220,16 +239,6 @@
             <category>Software Engineering</category>
             <pubDate>Tue, 12 Jan 2021 02:06:19 +1100</pubDate>
             <description><![CDATA[ &lt;p&gt;Attention to detail is critical in software development. Software is described as code, and computers execute the code as it is written, regardless of the intent of the developer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In the best case, errors are picked up by the developers editor or compiler and can be rapidly fixed. Worst case, errors can lurk for years undetected, causing intermittent small failures, or eventually a critical failure.&lt;/p&gt;&lt;p&gt;When every character matters, it pays to “dot your i’s and cross your t’s”.&amp;nbsp;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://pixiotix.com/blog/2020/12/18/26002042.pixiotix/</guid>
-            <title>Pixiotix</title>
-            <link>https://pixiotix.com/blog/2020/12/18/26002042.pixiotix/</link>
-            <category>Pixiotix</category>
-            <category>Announcements</category>
-            <pubDate>Fri, 18 Dec 2020 01:31:09 +1100</pubDate>
-            <description><![CDATA[ &lt;p&gt;From exceptional circumstances come new directions: announcing &lt;strong&gt;Pixiotix&lt;/strong&gt; &lt;strong&gt;Consulting&lt;/strong&gt; - helping deep-tech companies start, innovate, deliver and grow.&lt;/p&gt;&lt;p&gt;Pixiotix allows me to bring my skills and experience of over 20 years working in innovative, research and development focussed startups and scaleups to a whole range of new and developing ventures.&lt;/p&gt;&lt;p&gt;With a broad and deep background in Software Engineering,Technical Leadership and Product Development, and a distinct focus on deep-tech / high-tech / emerging tech, Pixiotix can help startups &amp;amp; scaleups in many different ways.&lt;/p&gt;&lt;p&gt;I’m always keen to chat to startup founders, so please drop me a line.&lt;/p&gt;&lt;p&gt;I’d really appreciate your support - please sign up to this list, follow &lt;a href=&#34;https://www.linkedin.com/company/pixiotix&#34;&gt;Pixiotix&lt;/a&gt; and/or &lt;a href=&#34;https://www.linkedin.com/in/danielxmoore&#34;&gt;myself&lt;/a&gt; on LinkedIn and by all means pass on this announcement to colleagues who might be interested to hear more.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
