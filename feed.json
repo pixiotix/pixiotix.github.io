@@ -5,6 +5,17 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
+            "url": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
+            "title": "Expect the unexpected",
+            "date_published": "2021-03-12T00:32:07.000Z",
+            "content_html": "<p>Software developers need to “expect the unexpected”. Services fail… networks go down… disks fill up… developers make mistakes. We need to be cognizant of what can go wrong, and decide how to deal with it.</p>\n<p>Which approach to handling error conditions is appropriate depends entirely on the error and the system. Making the right call is key to building a reliable system.</p>\n<p>The most egregious approach is to catch &amp; ignore errors.Actively hiding errors and blithely carrying on inevitably causes consequential errors which can be incredibly hard to understand.</p>\n<p>In behind-the-scenes systems, failing “hard and fast” on even the smallest unexpected circumstance is the best option. A build system that “tries to keep going” is poison for building reliable software… </p>\n<p>In user facing cases, catching errors, logging them and failing out of a particular piece of work is quite appropriate - users these days are very familiar with “sorry, something went wrong!”, and partial degradation of service is better than complete failure. But make sure someone is responsible for triaging these issues &amp; fixing them!</p>\n<p>Identify error conditions, apply an approach thoughtfully &amp; move on. Don’t bury your head in the sand.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/",
             "url": "https://pixiotix.com/blog/2021/03/05/Let-the-fires-burn/",
             "title": "Let the fires burn",
@@ -216,17 +227,6 @@
             "title": "Rigor in Software Development",
             "date_published": "2021-01-12T16:19:40.548Z",
             "content_html": "<p>Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.</p><p>By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.</p><p>Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&nbsp;</p><p>Don’t assume a development team will deliver on system requirements that haven’t been specified.</p>\n",
-            "tags": [
-                "Pixiotix",
-                "Software Engineering"
-            ]
-        },
-        {
-            "id": "https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/",
-            "url": "https://pixiotix.com/blog/2021/01/12/31270639.attention-to-detail/",
-            "title": "Attention to detail",
-            "date_published": "2021-01-11T15:06:19.990Z",
-            "content_html": "<p>Attention to detail is critical in software development. Software is described as code, and computers execute the code as it is written, regardless of the intent of the developer.&nbsp;</p><p>In the best case, errors are picked up by the developers editor or compiler and can be rapidly fixed. Worst case, errors can lurk for years undetected, causing intermittent small failures, or eventually a critical failure.</p><p>When every character matters, it pays to “dot your i’s and cross your t’s”.&nbsp;</p>\n",
             "tags": [
                 "Pixiotix",
                 "Software Engineering"

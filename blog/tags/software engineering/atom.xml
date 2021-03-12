@@ -3,16 +3,31 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix • Posts by &#34;software engineering&#34; tag</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-03-04T02:28:52.000Z</updated>
+    <updated>2021-03-12T00:32:07.000Z</updated>
     <category term="Pixiotix" />
-    <category term="Announcements" />
     <category term="Software Engineering" />
+    <category term="Announcements" />
     <category term="Leadership" />
     <category term="Innovation" />
     <category term="Machine Learning" />
     <category term="Computer Vision" />
     <category term="History" />
     <category term="Business" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/</id>
+        <title>Expect the unexpected</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/"/>
+        <content type="html">&lt;p&gt;Software developers need to “expect the unexpected”. Services fail… networks go down… disks fill up… developers make mistakes. We need to be cognizant of what can go wrong, and decide how to deal with it.&lt;/p&gt;
+&lt;p&gt;Which approach to handling error conditions is appropriate depends entirely on the error and the system. Making the right call is key to building a reliable system.&lt;/p&gt;
+&lt;p&gt;The most egregious approach is to catch &amp;amp; ignore errors.Actively hiding errors and blithely carrying on inevitably causes consequential errors which can be incredibly hard to understand.&lt;/p&gt;
+&lt;p&gt;In behind-the-scenes systems, failing “hard and fast” on even the smallest unexpected circumstance is the best option. A build system that “tries to keep going” is poison for building reliable software… &lt;/p&gt;
+&lt;p&gt;In user facing cases, catching errors, logging them and failing out of a particular piece of work is quite appropriate - users these days are very familiar with “sorry, something went wrong!”, and partial degradation of service is better than complete failure. But make sure someone is responsible for triaging these issues &amp;amp; fixing them!&lt;/p&gt;
+&lt;p&gt;Identify error conditions, apply an approach thoughtfully &amp;amp; move on. Don’t bury your head in the sand.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Software Engineering" />
+        <updated>2021-03-12T00:32:07.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/03/04/The-Sunk-Cost-Fallacy/</id>
         <title>The Sunk Cost Fallacy</title>
