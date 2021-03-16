@@ -5,6 +5,18 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/17/Creative-Leaps/",
+            "url": "https://pixiotix.com/blog/2021/03/17/Creative-Leaps/",
+            "title": "Creative Leaps",
+            "date_published": "2021-03-16T22:16:40.000Z",
+            "content_html": "<p>Sometimes, ideas flow and sometimes they don’t. When working on a difficult problem, it’s really important to ensure you actually get the chance to work on it. Turn off notifications and other distractions and really think.</p>\n<p>Going to another room &amp; thinking on paper can help.</p>\n<p>Better yet, go for a walk.</p>\n<p>Talk to a colleague/peer - even if they can’t offer advice, just talking the problem through will often help shake a solution out from hiding.</p>\n<p>You can’t force a creative leap. So if you’re still at a loose end, take a break, do something else &amp; come back later or the following day.</p>\n<p>Eventually, your subconscious will deliver!</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Innovation",
+                "Business"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
             "url": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
             "title": "Expect the unexpected",
@@ -216,17 +228,6 @@
             "title": "The time / scope / quality tradeoff",
             "date_published": "2021-01-13T11:56:46.167Z",
             "content_html": "<p>The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.</p><p>Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&nbsp;</p><p>If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.</p><p>Respect the time / scope / quality tradeoff.</p>\n",
-            "tags": [
-                "Pixiotix",
-                "Software Engineering"
-            ]
-        },
-        {
-            "id": "https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/",
-            "url": "https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/",
-            "title": "Rigor in Software Development",
-            "date_published": "2021-01-12T16:19:40.548Z",
-            "content_html": "<p>Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.</p><p>By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.</p><p>Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&nbsp;</p><p>Don’t assume a development team will deliver on system requirements that haven’t been specified.</p>\n",
             "tags": [
                 "Pixiotix",
                 "Software Engineering"

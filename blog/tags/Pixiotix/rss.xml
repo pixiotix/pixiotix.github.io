@@ -5,8 +5,8 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Fri, 12 Mar 2021 11:32:07 +1100</pubDate>
-        <lastBuildDate>Fri, 12 Mar 2021 11:32:07 +1100</lastBuildDate>
+        <pubDate>Wed, 17 Mar 2021 09:16:40 +1100</pubDate>
+        <lastBuildDate>Wed, 17 Mar 2021 09:16:40 +1100</lastBuildDate>
         <category>Pixiotix</category>
         <category>Announcements</category>
         <category>Software Engineering</category>
@@ -16,6 +16,22 @@
         <category>Computer Vision</category>
         <category>History</category>
         <category>Business</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/03/17/Creative-Leaps/</guid>
+            <title>Creative Leaps</title>
+            <link>https://pixiotix.com/blog/2021/03/17/Creative-Leaps/</link>
+            <category>Pixiotix</category>
+            <category>Innovation</category>
+            <category>Business</category>
+            <pubDate>Wed, 17 Mar 2021 09:16:40 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;Sometimes, ideas flow and sometimes they don’t. When working on a difficult problem, it’s really important to ensure you actually get the chance to work on it. Turn off notifications and other distractions and really think.&lt;/p&gt;
+&lt;p&gt;Going to another room &amp;amp; thinking on paper can help.&lt;/p&gt;
+&lt;p&gt;Better yet, go for a walk.&lt;/p&gt;
+&lt;p&gt;Talk to a colleague/peer - even if they can’t offer advice, just talking the problem through will often help shake a solution out from hiding.&lt;/p&gt;
+&lt;p&gt;You can’t force a creative leap. So if you’re still at a loose end, take a break, do something else &amp;amp; come back later or the following day.&lt;/p&gt;
+&lt;p&gt;Eventually, your subconscious will deliver!&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/</guid>
             <title>Expect the unexpected</title>
@@ -234,16 +250,6 @@
             <category>Software Engineering</category>
             <pubDate>Wed, 13 Jan 2021 22:56:46 +1100</pubDate>
             <description><![CDATA[ &lt;p&gt;The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.&lt;/p&gt;&lt;p&gt;Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.&lt;/p&gt;&lt;p&gt;Respect the time / scope / quality tradeoff.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/</guid>
-            <title>Rigor in Software Development</title>
-            <link>https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/</link>
-            <category>Pixiotix</category>
-            <category>Software Engineering</category>
-            <pubDate>Wed, 13 Jan 2021 03:19:40 +1100</pubDate>
-            <description><![CDATA[ &lt;p&gt;Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.&lt;/p&gt;&lt;p&gt;By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.&lt;/p&gt;&lt;p&gt;Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Don’t assume a development team will deliver on system requirements that haven’t been specified.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

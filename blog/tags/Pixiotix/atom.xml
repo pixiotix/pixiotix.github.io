@@ -3,7 +3,7 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix • Posts by &#34;pixiotix&#34; tag</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-03-12T00:32:07.000Z</updated>
+    <updated>2021-03-16T22:16:40.000Z</updated>
     <category term="Pixiotix" />
     <category term="Announcements" />
     <category term="Software Engineering" />
@@ -13,6 +13,22 @@
     <category term="Computer Vision" />
     <category term="History" />
     <category term="Business" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/03/17/Creative-Leaps/</id>
+        <title>Creative Leaps</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/03/17/Creative-Leaps/"/>
+        <content type="html">&lt;p&gt;Sometimes, ideas flow and sometimes they don’t. When working on a difficult problem, it’s really important to ensure you actually get the chance to work on it. Turn off notifications and other distractions and really think.&lt;/p&gt;
+&lt;p&gt;Going to another room &amp;amp; thinking on paper can help.&lt;/p&gt;
+&lt;p&gt;Better yet, go for a walk.&lt;/p&gt;
+&lt;p&gt;Talk to a colleague/peer - even if they can’t offer advice, just talking the problem through will often help shake a solution out from hiding.&lt;/p&gt;
+&lt;p&gt;You can’t force a creative leap. So if you’re still at a loose end, take a break, do something else &amp;amp; come back later or the following day.&lt;/p&gt;
+&lt;p&gt;Eventually, your subconscious will deliver!&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Innovation" />
+        <category term="Business" />
+        <updated>2021-03-16T22:16:40.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/</id>
         <title>Expect the unexpected</title>
@@ -232,15 +248,5 @@
         <category term="Pixiotix" />
         <category term="Software Engineering" />
         <updated>2021-01-13T11:56:46.167Z</updated>
-    </entry>
-    <entry>
-        <id>https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/</id>
-        <title>Rigor in Software Development</title>
-        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/13/31305653.rigor-in-software-development/"/>
-        <content type="html">&lt;p&gt;Different software systems require different levels of rigour applied in their development. Software running on a medical implant is life critical, heavily regulated, and requires the highest degree of rigour.&lt;/p&gt;&lt;p&gt;By contrast, software running a barebones minimum-viable-product for a nascent startup can be Rube-Goldberg-esque in structure, as long as it gets the job done.&lt;/p&gt;&lt;p&gt;Founders should carefully consider what their requirements and expectations are for the products they are building. Developing a system that is reliable, scalable, correct, testable, performant and maintainable software to solve complex problems requires a level of rigour.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Don’t assume a development team will deliver on system requirements that haven’t been specified.&lt;/p&gt;
-</content>
-        <category term="Pixiotix" />
-        <category term="Software Engineering" />
-        <updated>2021-01-12T16:19:40.548Z</updated>
     </entry>
 </feed>
