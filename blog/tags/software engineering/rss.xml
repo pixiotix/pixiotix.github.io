@@ -5,17 +5,32 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Fri, 12 Mar 2021 11:32:07 +1100</pubDate>
-        <lastBuildDate>Fri, 12 Mar 2021 11:32:07 +1100</lastBuildDate>
+        <pubDate>Thu, 18 Mar 2021 13:20:15 +1100</pubDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:20:15 +1100</lastBuildDate>
         <category>Pixiotix</category>
-        <category>Announcements</category>
         <category>Software Engineering</category>
+        <category>Announcements</category>
         <category>Leadership</category>
         <category>Innovation</category>
         <category>Machine Learning</category>
         <category>Computer Vision</category>
         <category>History</category>
         <category>Business</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/</guid>
+            <title>Infrastructure as Code</title>
+            <link>https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/</link>
+            <category>Pixiotix</category>
+            <category>Software Engineering</category>
+            <pubDate>Thu, 18 Mar 2021 13:20:15 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;Our ability to configure and deploy cloud infrastructure through ubiquitous web-based administration interfaces gives us tremendous power and flexibility. With so much interest in No-code and Low-code, why are Software Developers harping on about the wonders of Infrastructure as Code (IaC)? &lt;/p&gt;
+&lt;p&gt;Each piece of cloud infrastructure can have a myriad of settings associated with it - a single VM has 50+ attributes defined, with varying levels of complexity. Happily most of these have reasonable default values, but can you imagine trying to compare the configuration of two VMs in the AWS web console?&lt;/p&gt;
+&lt;p&gt;Multiply that complexity out by the number of pieces of infrastructure you’ll need in your system - a simple project I’m working on already has 30 pieces of infrastructure.&lt;/p&gt;
+&lt;p&gt;That’s over 1000 attributes to deal with already, now imagine you’re deploying these systems for each of your customers, and you’ll have some idea why IaC is such a big deal.&lt;/p&gt;
+&lt;p&gt;I won’t start a new cloud architecture project without IaC - the upfront effort pays off massively.&lt;/p&gt;
+&lt;p&gt;Check out Terraform, Pulumi, AWS CDK et al &amp;amp; if you need help with IaC, contact Pixiotix!&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/</guid>
             <title>Expect the unexpected</title>

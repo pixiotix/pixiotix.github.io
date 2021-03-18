@@ -5,6 +5,17 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/",
+            "url": "https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/",
+            "title": "Infrastructure as Code",
+            "date_published": "2021-03-18T02:20:15.000Z",
+            "content_html": "<p>Our ability to configure and deploy cloud infrastructure through ubiquitous web-based administration interfaces gives us tremendous power and flexibility. With so much interest in No-code and Low-code, why are Software Developers harping on about the wonders of Infrastructure as Code (IaC)? </p>\n<p>Each piece of cloud infrastructure can have a myriad of settings associated with it - a single VM has 50+ attributes defined, with varying levels of complexity. Happily most of these have reasonable default values, but can you imagine trying to compare the configuration of two VMs in the AWS web console?</p>\n<p>Multiply that complexity out by the number of pieces of infrastructure you’ll need in your system - a simple project I’m working on already has 30 pieces of infrastructure.</p>\n<p>That’s over 1000 attributes to deal with already, now imagine you’re deploying these systems for each of your customers, and you’ll have some idea why IaC is such a big deal.</p>\n<p>I won’t start a new cloud architecture project without IaC - the upfront effort pays off massively.</p>\n<p>Check out Terraform, Pulumi, AWS CDK et al &amp; if you need help with IaC, contact Pixiotix!</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/03/17/Creative-Leaps/",
             "url": "https://pixiotix.com/blog/2021/03/17/Creative-Leaps/",
             "title": "Creative Leaps",
@@ -217,17 +228,6 @@
             "title": "Code review",
             "date_published": "2021-01-15T14:57:23.072Z",
             "content_html": "<p>A good code review process can greatly improve code quality while bringing significant benefits in engineering team culture.&nbsp;</p><p>At its most basic, code review helps catch errors that would otherwise have been missed by the author of a code change. Involving more senior engineers and/or those with more experience in a particular codebase or technique can catch higher level issues such as leaky abstractions, locking hierarchy or threading problems.</p><p>But just as importantly, code review can be used to encourage engineers to take responsibility for their work. Not just make something work, but think through what they’re doing, understand it, make a good change, and be prepared to defend it.</p><p>A team that can respectfully give feedback and even challenge each others work is a stronger team.</p><p></p>\n",
-            "tags": [
-                "Pixiotix",
-                "Software Engineering"
-            ]
-        },
-        {
-            "id": "https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/",
-            "url": "https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/",
-            "title": "The time / scope / quality tradeoff",
-            "date_published": "2021-01-13T11:56:46.167Z",
-            "content_html": "<p>The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.</p><p>Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&nbsp;</p><p>If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.</p><p>Respect the time / scope / quality tradeoff.</p>\n",
             "tags": [
                 "Pixiotix",
                 "Software Engineering"

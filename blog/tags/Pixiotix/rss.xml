@@ -5,17 +5,32 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Wed, 17 Mar 2021 09:16:40 +1100</pubDate>
-        <lastBuildDate>Wed, 17 Mar 2021 09:16:40 +1100</lastBuildDate>
+        <pubDate>Thu, 18 Mar 2021 13:20:15 +1100</pubDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:20:15 +1100</lastBuildDate>
         <category>Pixiotix</category>
-        <category>Announcements</category>
         <category>Software Engineering</category>
+        <category>Announcements</category>
         <category>Leadership</category>
         <category>Innovation</category>
         <category>Machine Learning</category>
         <category>Computer Vision</category>
         <category>History</category>
         <category>Business</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/</guid>
+            <title>Infrastructure as Code</title>
+            <link>https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/</link>
+            <category>Pixiotix</category>
+            <category>Software Engineering</category>
+            <pubDate>Thu, 18 Mar 2021 13:20:15 +1100</pubDate>
+            <description><![CDATA[ &lt;p&gt;Our ability to configure and deploy cloud infrastructure through ubiquitous web-based administration interfaces gives us tremendous power and flexibility. With so much interest in No-code and Low-code, why are Software Developers harping on about the wonders of Infrastructure as Code (IaC)? &lt;/p&gt;
+&lt;p&gt;Each piece of cloud infrastructure can have a myriad of settings associated with it - a single VM has 50+ attributes defined, with varying levels of complexity. Happily most of these have reasonable default values, but can you imagine trying to compare the configuration of two VMs in the AWS web console?&lt;/p&gt;
+&lt;p&gt;Multiply that complexity out by the number of pieces of infrastructure you’ll need in your system - a simple project I’m working on already has 30 pieces of infrastructure.&lt;/p&gt;
+&lt;p&gt;That’s over 1000 attributes to deal with already, now imagine you’re deploying these systems for each of your customers, and you’ll have some idea why IaC is such a big deal.&lt;/p&gt;
+&lt;p&gt;I won’t start a new cloud architecture project without IaC - the upfront effort pays off massively.&lt;/p&gt;
+&lt;p&gt;Check out Terraform, Pulumi, AWS CDK et al &amp;amp; if you need help with IaC, contact Pixiotix!&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/03/17/Creative-Leaps/</guid>
             <title>Creative Leaps</title>
@@ -240,16 +255,6 @@
             <category>Software Engineering</category>
             <pubDate>Sat, 16 Jan 2021 01:57:23 +1100</pubDate>
             <description><![CDATA[ &lt;p&gt;A good code review process can greatly improve code quality while bringing significant benefits in engineering team culture.&amp;nbsp;&lt;/p&gt;&lt;p&gt;At its most basic, code review helps catch errors that would otherwise have been missed by the author of a code change. Involving more senior engineers and/or those with more experience in a particular codebase or technique can catch higher level issues such as leaky abstractions, locking hierarchy or threading problems.&lt;/p&gt;&lt;p&gt;But just as importantly, code review can be used to encourage engineers to take responsibility for their work. Not just make something work, but think through what they’re doing, understand it, make a good change, and be prepared to defend it.&lt;/p&gt;&lt;p&gt;A team that can respectfully give feedback and even challenge each others work is a stronger team.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/</guid>
-            <title>The time / scope / quality tradeoff</title>
-            <link>https://pixiotix.com/blog/2021/01/13/31334756.the-time-scope-quality-tradeoff/</link>
-            <category>Pixiotix</category>
-            <category>Software Engineering</category>
-            <pubDate>Wed, 13 Jan 2021 22:56:46 +1100</pubDate>
-            <description><![CDATA[ &lt;p&gt;The tradeoff inherent between time, scope and quality is fundamental in Software Development. Pushing a team to “crunch” has diminishing returns, and whilst it can be justified occasionally, resentment will build up if it’s used as a crutch for bad planning / unrealistic expectations.&lt;/p&gt;&lt;p&gt;Set pragmatic quality gates for different release types and stick to them. Involve engineers in the planning process to set realistic expectations for release dates, but accept that the more novel something is, the less certain the timeline will be.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If a release date is set in stone, accept that scope may need to be reduced to make the date, and make the call on what to cut early.&lt;/p&gt;&lt;p&gt;Respect the time / scope / quality tradeoff.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

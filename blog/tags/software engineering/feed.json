@@ -5,6 +5,17 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/",
+            "url": "https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/",
+            "title": "Infrastructure as Code",
+            "date_published": "2021-03-18T02:20:15.000Z",
+            "content_html": "<p>Our ability to configure and deploy cloud infrastructure through ubiquitous web-based administration interfaces gives us tremendous power and flexibility. With so much interest in No-code and Low-code, why are Software Developers harping on about the wonders of Infrastructure as Code (IaC)? </p>\n<p>Each piece of cloud infrastructure can have a myriad of settings associated with it - a single VM has 50+ attributes defined, with varying levels of complexity. Happily most of these have reasonable default values, but can you imagine trying to compare the configuration of two VMs in the AWS web console?</p>\n<p>Multiply that complexity out by the number of pieces of infrastructure you’ll need in your system - a simple project I’m working on already has 30 pieces of infrastructure.</p>\n<p>That’s over 1000 attributes to deal with already, now imagine you’re deploying these systems for each of your customers, and you’ll have some idea why IaC is such a big deal.</p>\n<p>I won’t start a new cloud architecture project without IaC - the upfront effort pays off massively.</p>\n<p>Check out Terraform, Pulumi, AWS CDK et al &amp; if you need help with IaC, contact Pixiotix!</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Software Engineering"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
             "url": "https://pixiotix.com/blog/2021/03/12/Expect-the-unexpected/",
             "title": "Expect the unexpected",
