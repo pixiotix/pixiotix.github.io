@@ -3,16 +3,29 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix • Posts by &#34;computer vision&#34; tag</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-02-18T15:56:06.977Z</updated>
+    <updated>2021-04-08T01:24:44.000Z</updated>
     <category term="Pixiotix" />
-    <category term="Software Engineering" />
     <category term="Announcements" />
+    <category term="Software Engineering" />
     <category term="Leadership" />
     <category term="Innovation" />
     <category term="Machine Learning" />
     <category term="Computer Vision" />
     <category term="History" />
     <category term="Business" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/</id>
+        <title>AI is not magic</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/"/>
+        <content type="html">&lt;p&gt;As exciting as recent developments in #machinelearning have been, remember it’s not magic. If a human can’t reliably do a specific task given certain input then neither can an algorithm. &lt;/p&gt;
+&lt;p&gt;People can’t decide good hires from a CV. Neither can AI.&lt;br&gt;People can’t reliably read emotions from a face. Neither can AI.&lt;br&gt;People can’t detect intent from a photo. Neither can AI.&lt;/p&gt;
+&lt;p&gt;If the data isn’t there, no algorithm, no matter how advanced, is going to make it appear.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-04-08T01:24:44.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</id>
         <title>Automated asset inspection with ML</title>

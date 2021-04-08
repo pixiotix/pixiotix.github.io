@@ -3,16 +3,29 @@
     <id>https://pixiotix.com</id>
     <title>Pixiotix</title>
     <link href="https://pixiotix.com" />
-    <updated>2021-03-18T02:20:15.000Z</updated>
+    <updated>2021-04-08T01:24:44.000Z</updated>
     <category term="Pixiotix" />
-    <category term="Software Engineering" />
     <category term="Announcements" />
+    <category term="Software Engineering" />
     <category term="Leadership" />
     <category term="Innovation" />
     <category term="Machine Learning" />
     <category term="Computer Vision" />
     <category term="History" />
     <category term="Business" />
+    <entry>
+        <id>https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/</id>
+        <title>AI is not magic</title>
+        <link rel="alternate" href="https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/"/>
+        <content type="html">&lt;p&gt;As exciting as recent developments in #machinelearning have been, remember it’s not magic. If a human can’t reliably do a specific task given certain input then neither can an algorithm. &lt;/p&gt;
+&lt;p&gt;People can’t decide good hires from a CV. Neither can AI.&lt;br&gt;People can’t reliably read emotions from a face. Neither can AI.&lt;br&gt;People can’t detect intent from a photo. Neither can AI.&lt;/p&gt;
+&lt;p&gt;If the data isn’t there, no algorithm, no matter how advanced, is going to make it appear.&lt;/p&gt;
+</content>
+        <category term="Pixiotix" />
+        <category term="Machine Learning" />
+        <category term="Computer Vision" />
+        <updated>2021-04-08T01:24:44.000Z</updated>
+    </entry>
     <entry>
         <id>https://pixiotix.com/blog/2021/03/18/Infrastructure-as-Code/</id>
         <title>Infrastructure as Code</title>
@@ -243,15 +256,5 @@
         <category term="Pixiotix" />
         <category term="Leadership" />
         <updated>2021-01-16T16:07:36.765Z</updated>
-    </entry>
-    <entry>
-        <id>https://pixiotix.com/blog/2021/01/16/31574916.code-review/</id>
-        <title>Code review</title>
-        <link rel="alternate" href="https://pixiotix.com/blog/2021/01/16/31574916.code-review/"/>
-        <content type="html">&lt;p&gt;A good code review process can greatly improve code quality while bringing significant benefits in engineering team culture.&amp;nbsp;&lt;/p&gt;&lt;p&gt;At its most basic, code review helps catch errors that would otherwise have been missed by the author of a code change. Involving more senior engineers and/or those with more experience in a particular codebase or technique can catch higher level issues such as leaky abstractions, locking hierarchy or threading problems.&lt;/p&gt;&lt;p&gt;But just as importantly, code review can be used to encourage engineers to take responsibility for their work. Not just make something work, but think through what they’re doing, understand it, make a good change, and be prepared to defend it.&lt;/p&gt;&lt;p&gt;A team that can respectfully give feedback and even challenge each others work is a stronger team.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-</content>
-        <category term="Pixiotix" />
-        <category term="Software Engineering" />
-        <updated>2021-01-15T14:57:23.072Z</updated>
     </entry>
 </feed>

@@ -5,6 +5,18 @@
     "home_page_url": "https://pixiotix.com",
     "items": [
         {
+            "id": "https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/",
+            "url": "https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/",
+            "title": "AI is not magic",
+            "date_published": "2021-04-08T01:24:44.000Z",
+            "content_html": "<p>As exciting as recent developments in #machinelearning have been, remember it’s not magic. If a human can’t reliably do a specific task given certain input then neither can an algorithm. </p>\n<p>People can’t decide good hires from a CV. Neither can AI.<br>People can’t reliably read emotions from a face. Neither can AI.<br>People can’t detect intent from a photo. Neither can AI.</p>\n<p>If the data isn’t there, no algorithm, no matter how advanced, is going to make it appear.</p>\n",
+            "tags": [
+                "Pixiotix",
+                "Machine Learning",
+                "Computer Vision"
+            ]
+        },
+        {
             "id": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
             "url": "https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/",
             "title": "Automated asset inspection with ML",

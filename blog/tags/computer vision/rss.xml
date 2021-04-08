@@ -5,17 +5,30 @@
         <link>https://pixiotix.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Fri, 19 Feb 2021 02:56:06 +1100</pubDate>
-        <lastBuildDate>Fri, 19 Feb 2021 02:56:06 +1100</lastBuildDate>
+        <pubDate>Thu, 08 Apr 2021 11:24:44 +1000</pubDate>
+        <lastBuildDate>Thu, 08 Apr 2021 11:24:44 +1000</lastBuildDate>
         <category>Pixiotix</category>
-        <category>Software Engineering</category>
         <category>Announcements</category>
+        <category>Software Engineering</category>
         <category>Leadership</category>
         <category>Innovation</category>
         <category>Machine Learning</category>
         <category>Computer Vision</category>
         <category>History</category>
         <category>Business</category>
+        <item>
+            <guid isPermalink="true">https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/</guid>
+            <title>AI is not magic</title>
+            <link>https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/</link>
+            <category>Pixiotix</category>
+            <category>Machine Learning</category>
+            <category>Computer Vision</category>
+            <pubDate>Thu, 08 Apr 2021 11:24:44 +1000</pubDate>
+            <description><![CDATA[ &lt;p&gt;As exciting as recent developments in #machinelearning have been, remember it’s not magic. If a human can’t reliably do a specific task given certain input then neither can an algorithm. &lt;/p&gt;
+&lt;p&gt;People can’t decide good hires from a CV. Neither can AI.&lt;br&gt;People can’t reliably read emotions from a face. Neither can AI.&lt;br&gt;People can’t detect intent from a photo. Neither can AI.&lt;/p&gt;
+&lt;p&gt;If the data isn’t there, no algorithm, no matter how advanced, is going to make it appear.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://pixiotix.com/blog/2021/02/19/32702669.automated-asset-inspection-with-ml/</guid>
             <title>Automated asset inspection with ML</title>
