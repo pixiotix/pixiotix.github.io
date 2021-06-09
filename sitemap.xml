@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pixiotix.com/</loc>
+    
+    <lastmod>2021-06-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pixiotix.com/blog/2021/04/08/AI-is-not-magic/</loc>
     
     <lastmod>2021-04-08</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://pixiotix.com/blog/2021/03/17/Creative-Leaps/</loc>
     
     <lastmod>2021-03-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pixiotix.com/</loc>
-    
-    <lastmod>2021-03-12</lastmod>
     
   </url>
   
@@ -207,7 +207,7 @@
 
   <url>
     <loc>https://pixiotix.com/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -215,63 +215,63 @@
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Pixiotix/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Announcements/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Software-Engineering/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Leadership/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Innovation/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Machine-Learning/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Computer-Vision/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/History/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://pixiotix.com/blog/tags/Business/</loc>
-    <lastmod>2021-04-08</lastmod>
+    <lastmod>2021-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
